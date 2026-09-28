@@ -1,0 +1,10 @@
+file,matches_original_handoff
+CODER_PROMPT.md,True
+inputs/metadata_DO_NOT_SEND_TO_MODELS.jsonl,True
+inputs/voyage_context_groups_DO_NOT_EMBED.jsonl,True
+inputs/passages_original_and_masked.jsonl,True
+inputs/flash_repeat_sample_DO_NOT_EMBED.json,True
+schemas/output_tables.json,True
+schemas/flash_response_schema.json,True
+schemas/registered_contrasts.json,True
+prompts/flash_classification_prompt.txt,False

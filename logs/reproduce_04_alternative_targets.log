@@ -1,0 +1,33 @@
+{
+  "sources": {
+    "fred_federal_funds_target_range.csv": "69ab1c709bffb0612c2e97bba1e3831e84b08988628bff1638f679687348f412",
+    "SP500.csv": "46cd98adebb7d23b815cab9b29d7f5735bd1c21027608d12f080813a5ce72a68",
+    "yahoo_gspc_daily.csv": "d77806f49ee68e6f6cc91743fc0ddf95b44f0125ef0b654e7092daee6766a2d1",
+    "fred_macro_financial_controls.csv": "7fc53768656992de548c00e92c4326a9e6d1d828bc49abdb6b5970ec3f782e83",
+    "fred_sp500_dtb3_daily.csv": "44a848819a80ac3123041cd0f80a9f247c75038daee87189686def976b4d1a7c",
+    "DTB3.csv": "f3a09b7ee6aa4c5977c6e7559c4dcb2741ae8a2f7c7a74c61d6d2baa5772c9fb"
+  },
+  "status": "retained source caches; no new daily French download claimed",
+  "daily_price_source": "Yahoo S&P 500 close",
+  "gross_log_return": "sum of observed close-to-close log returns whose return dates lie in [previous_meeting+1 calendar day, current_meeting-2 calendar days]",
+  "dividends_included": false,
+  "risk_free_adjustment_in_gross_targets": false,
+  "policy_exclusion": "secondary sensitivity removes non-meeting dates with a recorded target change; effective dates may differ from announcement dates; retains2001-09-17",
+  "n_targets": 199,
+  "yahoo_fred_overlap": {
+    "n": 2168,
+    "first": "2016-05-20",
+    "last": "2024-12-31",
+    "max_abs_close_difference": 5.289843749999818,
+    "median_abs_close_difference": 7.812500007275958e-05,
+    "n_differences_over_one_cent": 9
+  },
+  "author_graph_target_n": 135
+}
+                                 state_return  ...  author_published_return_pct
+state_return                         1.000000  ...                     0.951489
+price_log_inclusive                  0.953099  ...                     0.981634
+price_log_excl_effective_policy      0.964340  ...                     0.987424
+author_published_return_pct          0.951489  ...                     1.000000
+
+[4 rows x 4 columns]

@@ -1,0 +1,22 @@
+{
+  "passage_id": "8fd1c86a253a06b0b500021f",
+  "response": {
+    "tone": "unclear",
+    "evidence": [
+      {
+        "quote": "less favorable financial conditions in debt and equity markets"
+      }
+    ],
+    "reason_code": "insufficient_context"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "0aa84564-2a31-460a-85b1-0123943c8b7b",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "963d83435e4b36ed06367c3bf6cd4e785270e48107f4ca7c6222aba35bca47ef"
+}

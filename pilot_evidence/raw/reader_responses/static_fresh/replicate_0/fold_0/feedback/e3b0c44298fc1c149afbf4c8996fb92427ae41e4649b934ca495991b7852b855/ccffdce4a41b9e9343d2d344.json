@@ -1,0 +1,25 @@
+{
+  "passage_id": "ccffdce4a41b9e9343d2d344",
+  "response": {
+    "tone": "unclear",
+    "evidence": [
+      {
+        "quote": "Stock indexes fell over the intermeeting period in most major industrial economies"
+      },
+      {
+        "quote": "Equity prices were mixed in emerging markets"
+      }
+    ],
+    "reason_code": "mixed_or_conflicting"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "feedback",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "0640dc6c-d7ef-44f4-9f66-51fd59692a2a",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "dd2f8cd573525f23a6c317febc1c68df7146869cf77f3deba870a6366d776257"
+}

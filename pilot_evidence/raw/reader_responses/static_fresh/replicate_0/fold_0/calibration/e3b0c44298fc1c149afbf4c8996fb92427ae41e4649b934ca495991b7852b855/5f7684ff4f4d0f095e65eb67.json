@@ -1,0 +1,22 @@
+{
+  "passage_id": "5f7684ff4f4d0f095e65eb67",
+  "response": {
+    "tone": "hypothetical",
+    "evidence": [
+      {
+        "quote": "particularly if equity markets continued to register significant gains"
+      }
+    ],
+    "reason_code": "hypothetical_only"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "574f67b5-0819-43fe-837d-53af261bc1fd",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "b1eee18f92007f57b1be9b36663ce0de147d4b816c9ff3441b5d56f244ad2063"
+}

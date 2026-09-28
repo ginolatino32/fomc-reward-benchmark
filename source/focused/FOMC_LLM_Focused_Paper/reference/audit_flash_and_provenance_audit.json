@@ -1,0 +1,38 @@
+{
+  "final_valid_records": 2394,
+  "retained_attempts": 2552,
+  "retained_status_counts": {
+    "VALID": 2394,
+    "INVALID": 157,
+    "API_FAILURE": 1
+  },
+  "retained_validation_counts": {
+    "valid": 2394,
+    "json-parse-failure": 157
+  },
+  "first_retained_attempt_valid_records": 2272,
+  "request_log_status_counts": {
+    "VALID": 2394,
+    "FAILED": 323
+  },
+  "repeat_expected": 50,
+  "repeat_valid": 43,
+  "repeat_agree_with_final": 43,
+  "repeat_agreement_kappa_with_final": 1.0,
+  "mask_label_changes": 14,
+  "mask_label_changes_changed_text": 9,
+  "mask_label_changes_unchanged_text": 5,
+  "retained_response_first_utc": "2026-09-20 00:50:48+00:00",
+  "retained_response_last_utc": "2026-09-20 01:40:32+00:00",
+  "protocol_timestamp_utc": "2026-09-20 01:42:06.711311+00:00",
+  "retained_responses_before_protocol_timestamp": 2551,
+  "retained_usage_totals": {
+    "total_input_tokens": 1456266,
+    "total_output_tokens": 152038,
+    "total_thought_tokens": 764892
+  },
+  "returned_models": {
+    "gemini-3.8-flash": 2551
+  },
+  "caveat": "Retained attempt histories omit earlier failed attempts for records overwritten on resumed runs; counts are not an invoice or complete billing ledger."
+}

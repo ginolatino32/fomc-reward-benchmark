@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-06-10T11:32:08",
+  "model": "gemini-embedding-001",
+  "task_type": "SEMANTIC_SIMILARITY",
+  "prompt_version": "fed_put_gemini_embedding_anchor_v1",
+  "anchor_set": "baseline",
+  "input_file": "<local_drive>/Stevens/2026SummerResearch/fed_put_ai_nlp_outputs/data_intermediate/candidate_mention_windows_minutes_only.csv",
+  "rows": 1314,
+  "dimensions": 3072,
+  "anchors": [
+    "wealth_effect_consumption",
+    "financial_conditions",
+    "confidence_sentiment",
+    "growth_signal",
+    "risk_premium_valuation",
+    "investment_cost_of_capital",
+    "policy_reaction",
+    "descriptive_market_summary",
+    "financial_stability_risk_taking"
+  ],
+  "estimated_tokens": 181616,
+  "estimated_cost_usd_paid_tier": 0.0272424,
+  "actual_tokens": 181616,
+  "actual_cost_usd_paid_tier": 0.0272424,
+  "files": {
+    "vectors": "<local_desktop>/global_m2/btc_env.nosync/Claude/outputs/fed_put_followup_analysis_20260603/gemini_embeddings/gemini_embedding_001_minutes_only_baseline.npz",
+    "metadata": "<local_desktop>/global_m2/btc_env.nosync/Claude/outputs/fed_put_followup_analysis_20260603/gemini_embeddings/gemini_embedding_001_minutes_only_baseline_metadata.csv",
+    "scores": "<local_desktop>/global_m2/btc_env.nosync/Claude/outputs/fed_put_followup_analysis_20260603/gemini_embeddings/gemini_embedding_001_minutes_only_baseline_anchor_similarity_scores.csv",
+    "anchors": "<local_desktop>/global_m2/btc_env.nosync/Claude/outputs/fed_put_followup_analysis_20260603/gemini_embeddings/gemini_embedding_001_minutes_only_baseline_anchor_embeddings.npz",
+    "anchor_meta": "<local_desktop>/global_m2/btc_env.nosync/Claude/outputs/fed_put_followup_analysis_20260603/gemini_embeddings/gemini_embedding_001_minutes_only_baseline_anchor_metadata.csv",
+    "manifest": "<local_desktop>/global_m2/btc_env.nosync/Claude/outputs/fed_put_followup_analysis_20260603/gemini_embeddings/gemini_embedding_001_minutes_only_baseline_manifest.json"
+  }
+}

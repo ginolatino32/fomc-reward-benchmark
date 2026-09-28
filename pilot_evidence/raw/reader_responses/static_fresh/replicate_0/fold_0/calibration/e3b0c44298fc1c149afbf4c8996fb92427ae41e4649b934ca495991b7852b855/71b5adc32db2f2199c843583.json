@@ -1,0 +1,22 @@
+{
+  "passage_id": "71b5adc32db2f2199c843583",
+  "response": {
+    "tone": "positive",
+    "evidence": [
+      {
+        "quote": "Major equity price indexes posted substantial gains"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "574f67b5-0819-43fe-837d-53af261bc1fd",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "16c71180341a66d4bae16461ea47c79673a4d7068dd39ba88e25e8f37ac1c802"
+}

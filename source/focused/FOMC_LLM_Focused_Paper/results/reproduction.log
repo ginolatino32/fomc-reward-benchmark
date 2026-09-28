@@ -1,0 +1,25 @@
+Refitted historical_mean
+Refitted length_only
+Refitted mention_counts
+Refitted signed_counts
+Refitted tfidf
+Refitted cvj
+Refitted cvj_joint
+Refitted cvj_ols
+Refitted gemini
+Refitted flash
+Refitted gemini_refreshed
+Refitted gemini_masked
+Refitted flash_masked
+Refitted tfidf_masked
+Refitted gemini_pca3
+                  n        mse      rmse       mae    oos_r2  gain_vs_cvj_pct  gain_vs_tfidf_pct  gain_vs_mention_counts_pct
+model                                                                                                                       
+historical_mean  99  24.864427  4.986424  3.775666  0.000000       -47.904051         -16.863794                    0.018648
+length_only      99  24.863754  4.986357  3.775475  0.000027       -47.900046         -16.860629                    0.021356
+mention_counts   99  24.869065  4.986889  3.776461 -0.000187       -47.931638         -16.885591                    0.000000
+signed_counts    99  27.639483  5.257327  3.862046 -0.111607       -64.411245         -29.906664                  -11.140015
+tfidf            99  21.276416  4.612637  3.357059  0.144303       -26.561056           0.000000                   14.446255
+cvj              99  16.811187  4.100145  2.907027  0.323886         0.000000          20.986753                   32.401208
+gemini           99  12.402822  3.521764  2.551220  0.501182        26.222807          41.706244                   50.127509
+flash            99  12.675529  3.560271  2.568975  0.490214        24.600634          40.424512                   49.030939

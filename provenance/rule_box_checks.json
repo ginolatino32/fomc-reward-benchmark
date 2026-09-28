@@ -1,0 +1,112 @@
+[
+  {
+    "text": "Stock prices rose.",
+    "expected": [
+      "positive"
+    ],
+    "observed": [
+      "positive"
+    ],
+    "hits": [
+      {
+        "phrase": "stock price*",
+        "matched_text": "Stock prices",
+        "start": 0,
+        "end": 12,
+        "sign": "positive",
+        "direction": "rose",
+        "direction_spans": "[[13, 17]]",
+        "context": "Stock prices rose."
+      }
+    ],
+    "scope": "constructed procedural illustration; not a natural-corpus accuracy observation"
+  },
+  {
+    "text": "Equity prices fell.",
+    "expected": [
+      "negative"
+    ],
+    "observed": [
+      "negative"
+    ],
+    "hits": [
+      {
+        "phrase": "equity price*",
+        "matched_text": "Equity prices",
+        "start": 0,
+        "end": 13,
+        "sign": "negative",
+        "direction": "fell",
+        "direction_spans": "[[14, 18]]",
+        "context": "Equity prices fell."
+      }
+    ],
+    "scope": "constructed procedural illustration; not a natural-corpus accuracy observation"
+  },
+  {
+    "text": "Equity prices did not rise.",
+    "expected": [
+      "negative"
+    ],
+    "observed": [
+      "negative"
+    ],
+    "hits": [
+      {
+        "phrase": "equity price*",
+        "matched_text": "Equity prices",
+        "start": 0,
+        "end": 13,
+        "sign": "negative",
+        "direction": "not rise*",
+        "direction_spans": "[[18, 26]]",
+        "context": "Equity prices did not rise."
+      }
+    ],
+    "scope": "constructed procedural illustration; not a natural-corpus accuracy observation"
+  },
+  {
+    "text": "Interest rates fell while equity prices rose.",
+    "expected": [
+      "positive"
+    ],
+    "observed": [
+      "positive"
+    ],
+    "hits": [
+      {
+        "phrase": "equity price*",
+        "matched_text": "equity prices",
+        "start": 26,
+        "end": 39,
+        "sign": "positive",
+        "direction": "rose",
+        "direction_spans": "[[40, 44]]",
+        "context": "Interest rates fell while equity prices rose."
+      }
+    ],
+    "scope": "constructed procedural illustration; not a natural-corpus accuracy observation"
+  },
+  {
+    "text": "Equity prices were unchanged.",
+    "expected": [
+      "unclassified"
+    ],
+    "observed": [
+      "unclassified"
+    ],
+    "hits": [
+      {
+        "phrase": "equity price*",
+        "matched_text": "Equity prices",
+        "start": 0,
+        "end": 13,
+        "sign": "unclassified",
+        "direction": "",
+        "direction_spans": "[]",
+        "context": "Equity prices were unchanged."
+      }
+    ],
+    "scope": "constructed procedural illustration; not a natural-corpus accuracy observation"
+  }
+]

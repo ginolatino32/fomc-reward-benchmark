@@ -1,0 +1,19 @@
+model,benchmark,n,block_length,mse_gain_pct,ci_low,ci_high,conditional_two_sided_p,scope,holm_six
+gemini,rules_whole_linear,99,4,26.222806849745783,7.48676870652188,39.27612879267037,0.0613,post-discovery fixed loss comparison; not research-selection adjusted,0.3192
+gemini,rules_whole_linear,99,2,26.222806849745783,7.5168309970476965,38.77116672869133,0.0439,post-discovery fixed loss comparison; not research-selection adjusted,
+gemini,rules_whole_linear,99,8,26.222806849745783,6.789978472762754,39.89645786223816,0.082,post-discovery fixed loss comparison; not research-selection adjusted,
+gemini,rules_whole_quadratic,99,4,19.850583017121124,-3.592182417920847,34.20168107746496,0.1474,post-discovery fixed loss comparison; not research-selection adjusted,0.3369
+gemini,rules_whole_quadratic,99,2,19.850583017121124,-3.3349033624691558,33.91056039099407,0.1218,post-discovery fixed loss comparison; not research-selection adjusted,
+gemini,rules_whole_quadratic,99,8,19.850583017121124,-4.672010234150826,33.28313099417316,0.1794,post-discovery fixed loss comparison; not research-selection adjusted,
+gemini,rules_matched_phrase,99,4,28.610298766762455,6.440505119767515,43.39931776703399,0.068,post-discovery fixed loss comparison; not research-selection adjusted,0.3192
+gemini,rules_matched_phrase,99,2,28.610298766762455,7.287019025243356,42.7024753197388,0.0452,post-discovery fixed loss comparison; not research-selection adjusted,
+gemini,rules_matched_phrase,99,8,28.610298766762455,4.4593274191632934,43.02238128372075,0.0961,post-discovery fixed loss comparison; not research-selection adjusted,
+flash_five,rules_whole_quadratic,99,4,18.088300980921268,-2.5670647271110356,30.986356755287634,0.1123,post-discovery fixed loss comparison; not research-selection adjusted,0.3369
+flash_five,rules_whole_quadratic,99,2,18.088300980921268,-3.6905094435927883,31.297569570681674,0.1161,post-discovery fixed loss comparison; not research-selection adjusted,
+flash_five,rules_whole_quadratic,99,8,18.088300980921268,0.015418662702278565,29.960599131273778,0.1086,post-discovery fixed loss comparison; not research-selection adjusted,
+flash_two_plus_volume,rules_two_votes_plus_volume,99,4,19.567109222819944,5.354278828530465,28.07146052982955,0.0532,post-discovery fixed loss comparison; not research-selection adjusted,0.3192
+flash_two_plus_volume,rules_two_votes_plus_volume,99,2,19.567109222819944,4.539135373369541,29.425527745289635,0.0451,post-discovery fixed loss comparison; not research-selection adjusted,
+flash_two_plus_volume,rules_two_votes_plus_volume,99,8,19.567109222819944,4.979253047507463,26.724914722411032,0.0685,post-discovery fixed loss comparison; not research-selection adjusted,
+gemini_plus_volume,rules_matched_plus_volume,99,4,24.04482504117186,-1.4285338578317603,39.45535904753265,0.1263,post-discovery fixed loss comparison; not research-selection adjusted,0.3369
+gemini_plus_volume,rules_matched_plus_volume,99,2,24.04482504117186,0.3263113774040568,38.63532591953159,0.0884,post-discovery fixed loss comparison; not research-selection adjusted,
+gemini_plus_volume,rules_matched_plus_volume,99,8,24.04482504117186,-5.374484261437503,39.69347991111114,0.1718,post-discovery fixed loss comparison; not research-selection adjusted,

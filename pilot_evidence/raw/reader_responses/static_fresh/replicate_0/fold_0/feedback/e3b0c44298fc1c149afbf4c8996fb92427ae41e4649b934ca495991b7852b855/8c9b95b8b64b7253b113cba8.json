@@ -1,0 +1,25 @@
+{
+  "passage_id": "8c9b95b8b64b7253b113cba8",
+  "response": {
+    "tone": "negative",
+    "evidence": [
+      {
+        "quote": "Broad equity indexes declined over the intermeeting period."
+      },
+      {
+        "quote": "Financial sector equity indexes were volatile and ended the period down sharply."
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "feedback",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "a25fec3f-f013-4132-b4dd-4460a336aea0",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "fbbe60e1952982aa3ff0206d9b32e8e091454fa74e99a8b04e99ad3e7de3c0ac"
+}

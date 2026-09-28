@@ -1,0 +1,22 @@
+{
+  "passage_id": "39a2e986eb5c96e0fca48cac",
+  "response": {
+    "tone": "negative",
+    "evidence": [
+      {
+        "quote": "decline in stock market wealth over the last year or so"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "20f69001-b9f3-4601-8f11-f57a1d5a2927",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "f8acc1254e17e1796449ee24941cebdafbae559cabdb3038a52ee74e02f63476"
+}

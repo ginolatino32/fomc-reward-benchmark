@@ -1,0 +1,22 @@
+{
+  "passage_id": "c70fc8963c82ae6857291a3f",
+  "response": {
+    "tone": "positive",
+    "evidence": [
+      {
+        "quote": "Equity prices rose further"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "feedback",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "0640dc6c-d7ef-44f4-9f66-51fd59692a2a",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "100e92783af373c80e36f192d0ba44aaead2af970c70eb3caeca9f14fe2b65d7"
+}

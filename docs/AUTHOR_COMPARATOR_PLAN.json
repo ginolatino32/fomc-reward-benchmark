@@ -1,0 +1,16 @@
+{
+  "created_utc": "2026-09-20T03:04:41.842563+00:00",
+  "new_source": "Figure 5 vector paths, not original raw author data",
+  "models": [
+    "original full Gemini",
+    "Flash5",
+    "audited reconstructed counts linear and quadratic",
+    "TFIDF",
+    "published human-coded counts linear ridge, OLS, fixed quadratic",
+    "counts excluding staff financial scope sensitivity"
+  ],
+  "common_period": "2000-2016 training/data; initial100train and existing fold boundaries yield35evaluation2012-2016",
+  "target": "unchanged state_return, alternate financial targets added under same folds if constructed",
+  "disclosure": "post-discovery comparator extension; no predictions inspected against recovered counts before this file",
+  "stop_rule": "report every specified model without selecting a favorable overlap or sample split"
+}

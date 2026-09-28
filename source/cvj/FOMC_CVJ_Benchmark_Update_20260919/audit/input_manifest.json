@@ -1,0 +1,1002 @@
+[
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2013/fomcminutes20131218.txt",
+    "relative_path": "data/minutes/Minutes/2013/fomcminutes20131218.txt",
+    "sha256": "0cc489f6bef259ed76f0a07cde89d3df66888db97ecb43a697d424624103abd9"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2013/fomcminutes20130918.txt",
+    "relative_path": "data/minutes/Minutes/2013/fomcminutes20130918.txt",
+    "sha256": "0f3c2f2d3ef9eacc46be05971a279ba4e01ba3bd1e51466c7971c05fa1111061"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2013/fomcminutes20130501.txt",
+    "relative_path": "data/minutes/Minutes/2013/fomcminutes20130501.txt",
+    "sha256": "d1ee67cfeeebb32960399e9161f10e79ec7436ba3b9522dbe043bd5434791e6d"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2013/fomcminutes20131030.txt",
+    "relative_path": "data/minutes/Minutes/2013/fomcminutes20131030.txt",
+    "sha256": "7866d29453cc990c4ebef6ea93c7763e83a61d354b058b5c9f6ba88c9f4aac06"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2013/fomcminutes20130619.txt",
+    "relative_path": "data/minutes/Minutes/2013/fomcminutes20130619.txt",
+    "sha256": "5bee27c28d6f7b73bd80840e37878609098b3ac95073f3c1fe480f14b3c8139f"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2013/fomcminutes20130130.txt",
+    "relative_path": "data/minutes/Minutes/2013/fomcminutes20130130.txt",
+    "sha256": "0a85bb2d1d67e8a4017653a1bb2ce4f98c0ecd92945390c87f0abce5d0a561b9"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2013/fomcminutes20130320.txt",
+    "relative_path": "data/minutes/Minutes/2013/fomcminutes20130320.txt",
+    "sha256": "42b3c4ae5e920daefaa70bd80f34fae9dfda1716a9085c3fc33f97860ccf8c09"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2013/fomcminutes20130731.txt",
+    "relative_path": "data/minutes/Minutes/2013/fomcminutes20130731.txt",
+    "sha256": "ea25a97273de14266db82d90e09f1f6d71a6f61c74b952cdc3cb8bfeb115b1ef"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2014/fomcminutes20140430.txt",
+    "relative_path": "data/minutes/Minutes/2014/fomcminutes20140430.txt",
+    "sha256": "b94ee2fe98daa19b5fde5f71861518757cde3eb8d6d05556621f82d87f2eb3b6"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2014/fomcminutes20140618.txt",
+    "relative_path": "data/minutes/Minutes/2014/fomcminutes20140618.txt",
+    "sha256": "d4c1d437c300202a92b5dae283751cc68a0ca7e9c9d1b2df3ff2eb693c81a15e"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2014/fomcminutes20140319.txt",
+    "relative_path": "data/minutes/Minutes/2014/fomcminutes20140319.txt",
+    "sha256": "953c19327937b0a07a2e15b6857c3f5870f881cf0e6b5b11eaac6837ec6d4df0"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2014/fomcminutes20140917.txt",
+    "relative_path": "data/minutes/Minutes/2014/fomcminutes20140917.txt",
+    "sha256": "af4e98c6b1186668abbbeeaa51c8a172672daf079f2d55aadb6413ea9658f0ef"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2014/fomcminutes20140730.txt",
+    "relative_path": "data/minutes/Minutes/2014/fomcminutes20140730.txt",
+    "sha256": "d4bd3d0afd30096d201ba252a204c7badc4f5af1f4399477c5784635a9b891e8"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2014/fomcminutes20141029.txt",
+    "relative_path": "data/minutes/Minutes/2014/fomcminutes20141029.txt",
+    "sha256": "300eb2def7375744b558aa922a45ef93fe8b140feb25490b8f076f4bdeb670cf"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2014/fomcminutes20141217.txt",
+    "relative_path": "data/minutes/Minutes/2014/fomcminutes20141217.txt",
+    "sha256": "6c812334c8c385b2e7da3982d7962e72aca560c06ef8730ddd3581f0a2f1aa0e"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2014/fomcminutes20140129.txt",
+    "relative_path": "data/minutes/Minutes/2014/fomcminutes20140129.txt",
+    "sha256": "00919b3e4375e1d5db8e518510e48023b230abc5453b39617622ab92e5df5636"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2022/fomcminutes20221102.txt",
+    "relative_path": "data/minutes/Minutes/2022/fomcminutes20221102.txt",
+    "sha256": "5dfe98868d1ef8719ccbbe4d7b173aaa3d87b6da383a4dfe439ab6fca544fde5"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2022/fomcminutes20220126.txt",
+    "relative_path": "data/minutes/Minutes/2022/fomcminutes20220126.txt",
+    "sha256": "de30a800563bace94909129d68002a860f04e8c3977e342d60c21986eb5dee38"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2022/fomcminutes20220727.txt",
+    "relative_path": "data/minutes/Minutes/2022/fomcminutes20220727.txt",
+    "sha256": "e06f4e387c19b4182f67d5ec310e9a16df3435e32bf4be08b9bd79a902469c21"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2022/fomcminutes20221214.txt",
+    "relative_path": "data/minutes/Minutes/2022/fomcminutes20221214.txt",
+    "sha256": "15771685c2fce6eab544a23172a9c34df968bf5abaf6da472df0dc3a0c661620"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2022/fomcminutes20220316.txt",
+    "relative_path": "data/minutes/Minutes/2022/fomcminutes20220316.txt",
+    "sha256": "c4b43eb727c312da522e3998b2a9eaa38c36061220606e2d8e63b823b0920916"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2022/fomcminutes20220504.txt",
+    "relative_path": "data/minutes/Minutes/2022/fomcminutes20220504.txt",
+    "sha256": "e083979760e77208fa64938a5d1dbc4d0312dcee9eb97b9c8897c8d9f748066c"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2022/fomcminutes20220921.txt",
+    "relative_path": "data/minutes/Minutes/2022/fomcminutes20220921.txt",
+    "sha256": "7a31070ac7db6cbd98fde51f6caacff9d5040df3363e7d7e37040c5c47d4effc"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2022/fomcminutes20220615.txt",
+    "relative_path": "data/minutes/Minutes/2022/fomcminutes20220615.txt",
+    "sha256": "0616e53f96fe20cf6d98061b31a59d2097f35d31362ff378a01f221dcbe4f966"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2024/fomcminutes20241218.txt",
+    "relative_path": "data/minutes/Minutes/2024/fomcminutes20241218.txt",
+    "sha256": "1a0d22f6ab21ad6cb7cd306132c06ccd1b8b0f7155950deb1176e52685529176"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2024/fomcminutes20240918.txt",
+    "relative_path": "data/minutes/Minutes/2024/fomcminutes20240918.txt",
+    "sha256": "85a84d770d303178947cb251d839f68578984b624d8713cf31f3a2c1e087b5f3"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2024/fomcminutes20240501.txt",
+    "relative_path": "data/minutes/Minutes/2024/fomcminutes20240501.txt",
+    "sha256": "1d8220cea18e962b552487d76f441f2fe3d3604ace0aeb1200e8fed66ecf8113"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2024/fomcminutes20240612.txt",
+    "relative_path": "data/minutes/Minutes/2024/fomcminutes20240612.txt",
+    "sha256": "bd3276d8f8fef501920847b0395c00670df84632661d435348ef0c18db910abd"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2024/fomcminutes20241107.txt",
+    "relative_path": "data/minutes/Minutes/2024/fomcminutes20241107.txt",
+    "sha256": "ca43fa8706a930653095b0953cea74e354aa923a0733cb776c84f97406bfd280"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2024/fomcminutes20240731.txt",
+    "relative_path": "data/minutes/Minutes/2024/fomcminutes20240731.txt",
+    "sha256": "f48eedc512a2e147c43a68dc3ba9ffc3c0395a9e8658d1e8f02c0a12e1d590cd"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2024/fomcminutes20240320.txt",
+    "relative_path": "data/minutes/Minutes/2024/fomcminutes20240320.txt",
+    "sha256": "fd8c3aedd0a944e48dbd40ce3b3233df9963d7f0d75a730161472e8c1111de45"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2024/fomcminutes20240131.txt",
+    "relative_path": "data/minutes/Minutes/2024/fomcminutes20240131.txt",
+    "sha256": "75a6ac64dd2250d3a3e3799483d0fc11cf010311f6e90a0f5abc01da1f683c58"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2023/fomcminutes20231101.txt",
+    "relative_path": "data/minutes/Minutes/2023/fomcminutes20231101.txt",
+    "sha256": "ac5661803b4b9046009e8944da9eeddc910cb1b38b25a827a8a61ee5cf52efc2"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2023/fomcminutes20230726.txt",
+    "relative_path": "data/minutes/Minutes/2023/fomcminutes20230726.txt",
+    "sha256": "60e213476a5da3a97af18ca045c7cf36d377f2bca8265960c6e91f637f976612"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2023/fomcminutes20230322.txt",
+    "relative_path": "data/minutes/Minutes/2023/fomcminutes20230322.txt",
+    "sha256": "ec71b17b1aefdf5a67d416989e2c4d2144d86627f3edcb06eec6f625e0052801"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2023/fomcminutes20231213.txt",
+    "relative_path": "data/minutes/Minutes/2023/fomcminutes20231213.txt",
+    "sha256": "c42d34efa1e213f6196170d6b168616befab446d2b306e02750b7e928fc8feb0"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2023/fomcminutes20230920.txt",
+    "relative_path": "data/minutes/Minutes/2023/fomcminutes20230920.txt",
+    "sha256": "e210aa4c843e8a4f67b8ffb0b2ce3f1075f800c37a66b303b00265d8c6751a9c"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2023/fomcminutes20230503.txt",
+    "relative_path": "data/minutes/Minutes/2023/fomcminutes20230503.txt",
+    "sha256": "22dad8ea785d5300aaf074ec9e8b46ffabc1c3fef9bede883a070fe4e82075d1"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2023/fomcminutes20230201.txt",
+    "relative_path": "data/minutes/Minutes/2023/fomcminutes20230201.txt",
+    "sha256": "788850a49bb07880f44de499a19aa87704301b82bae91d28d11173301ee8f78b"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2023/fomcminutes20230614.txt",
+    "relative_path": "data/minutes/Minutes/2023/fomcminutes20230614.txt",
+    "sha256": "3ab9865c3ef8d1f9827104318b68c574f15774535c32626c6a1d094e438669de"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2015/fomcminutes20151028.txt",
+    "relative_path": "data/minutes/Minutes/2015/fomcminutes20151028.txt",
+    "sha256": "bc8a3c8602f363eaa8033dcb00ba4ea98f59f01024a5c7eaf238333df9579584"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2015/fomcminutes20151216.txt",
+    "relative_path": "data/minutes/Minutes/2015/fomcminutes20151216.txt",
+    "sha256": "161f8cc0d00a4ed6d0d73d3a37323b0b446361475224252ccbbbb85d05ab6430"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2015/fomcminutes20150917.txt",
+    "relative_path": "data/minutes/Minutes/2015/fomcminutes20150917.txt",
+    "sha256": "afaaa5215b32d2ee68e533264d01d87b9b02601fe7251f2f4b5e3b0b2e5e7435"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2015/fomcminutes20150318.txt",
+    "relative_path": "data/minutes/Minutes/2015/fomcminutes20150318.txt",
+    "sha256": "06a6e1bc19722a7cc97d18b1062e5513cf61d6a01cd9e03508a8bf83acb17463"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2015/fomcminutes20150128.txt",
+    "relative_path": "data/minutes/Minutes/2015/fomcminutes20150128.txt",
+    "sha256": "39b0eacd2c5ee6c42d9d2bd884e5bc1c62ac86b8ebd73a9694cfdb9a56cc6aaa"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2015/fomcminutes20150729.txt",
+    "relative_path": "data/minutes/Minutes/2015/fomcminutes20150729.txt",
+    "sha256": "c154534e4217d169dbc2f4471546ae8e5cefd31318a3b82a32bad109090b5e79"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2015/fomcminutes20150617.txt",
+    "relative_path": "data/minutes/Minutes/2015/fomcminutes20150617.txt",
+    "sha256": "42fc4bfba356101a322e24641b3473123cee51f9017495946f88c5ccedb9d793"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2015/fomcminutes20150429.txt",
+    "relative_path": "data/minutes/Minutes/2015/fomcminutes20150429.txt",
+    "sha256": "34a1fd3c08e4f25d4e60e9a38a902e6e070577ad95a502208c0395a87a05dc02"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2012/fomcminutes20120313.txt",
+    "relative_path": "data/minutes/Minutes/2012/fomcminutes20120313.txt",
+    "sha256": "43a7c8f6bab9ed3c16a6694b33477e70caf4308584618de210e5b418b63f63fa"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2012/fomcminutes20121024.txt",
+    "relative_path": "data/minutes/Minutes/2012/fomcminutes20121024.txt",
+    "sha256": "76186a94c3c7ad1e0539938cb6494f7a835c92f17175e3a2f62d00f46b1c7070"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2012/fomcminutes20120425.txt",
+    "relative_path": "data/minutes/Minutes/2012/fomcminutes20120425.txt",
+    "sha256": "8b5add046699f9af564ac7f27176e15b8ad73726ea884a30cbf0a770a5a1e9c2"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2012/fomcminutes20120801.txt",
+    "relative_path": "data/minutes/Minutes/2012/fomcminutes20120801.txt",
+    "sha256": "98e5dd0e2d844507755c9be317004eeaa81dfa9c84e72c0663f967eb1b1a7a88"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2012/fomcminutes20120620.txt",
+    "relative_path": "data/minutes/Minutes/2012/fomcminutes20120620.txt",
+    "sha256": "b2eb73babc5c800e6d3387c51b85da2927a607954859308f08fb6b015647aaa6"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2012/fomcminutes20121212.txt",
+    "relative_path": "data/minutes/Minutes/2012/fomcminutes20121212.txt",
+    "sha256": "98c757c94cdaba4d15450ef04fc36ac2354a7e13251bd330db39dc51f695c5d9"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2012/fomcminutes20120125.txt",
+    "relative_path": "data/minutes/Minutes/2012/fomcminutes20120125.txt",
+    "sha256": "ad2a7f87e60648997505ec92d9ef5ddeda56e3f15d6c54bcea07f9517039925e"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2012/fomcminutes20120913.txt",
+    "relative_path": "data/minutes/Minutes/2012/fomcminutes20120913.txt",
+    "sha256": "e618f5c424feccb2fbb49add0c43f441c827b2eb82dac9976b19f4fe07cc209e"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2008/fomcminutes20080916.txt",
+    "relative_path": "data/minutes/Minutes/2008/fomcminutes20080916.txt",
+    "sha256": "20f0f5d083c884597a4993d92e55918bb6122810259e2d194e4a1ebbcdb71cf2"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2008/fomcminutes20081029.txt",
+    "relative_path": "data/minutes/Minutes/2008/fomcminutes20081029.txt",
+    "sha256": "8139ce104a956ccd2cc3fa9e9892c192b298a4e73db9e7463720912f080cb750"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2008/fomcminutes20081216.txt",
+    "relative_path": "data/minutes/Minutes/2008/fomcminutes20081216.txt",
+    "sha256": "c9e0c8d9f4957356294ec17e33302099d48118ec4f55b39966e5fa3114eb9c73"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2008/fomcminutes20080130.txt",
+    "relative_path": "data/minutes/Minutes/2008/fomcminutes20080130.txt",
+    "sha256": "184aa432a6ffcf7bf30f6ee9b830479041ef26711322f558e9e0bce04bceb98a"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2008/fomcminutes20080318.txt",
+    "relative_path": "data/minutes/Minutes/2008/fomcminutes20080318.txt",
+    "sha256": "09f0b4bc7193f52b1a43ade24060bc21d70170102c107a8d515ab5881aca2641"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2008/fomcminutes20080430.txt",
+    "relative_path": "data/minutes/Minutes/2008/fomcminutes20080430.txt",
+    "sha256": "d0ed9a90ba13cc0edd9292262052a893b4390c2ec7230250af809c6e7a468f59"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2008/fomcminutes20080625.txt",
+    "relative_path": "data/minutes/Minutes/2008/fomcminutes20080625.txt",
+    "sha256": "7a1ba6410e86c4c20cf2c5ba6b1d9bc6fcb5958080aa06ca590b3e1926b6fe25"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2008/fomcminutes20080805.txt",
+    "relative_path": "data/minutes/Minutes/2008/fomcminutes20080805.txt",
+    "sha256": "74d6aed46a12222e6d25a42dd0303ef6c6f911ff90c28b828278fe37f2e8e7e3"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2001/fomcminutes20010821.txt",
+    "relative_path": "data/minutes/Minutes/2001/fomcminutes20010821.txt",
+    "sha256": "95d8a323812c5dc18b773c4931b5211336b7391608eb02906f185736dda417ec"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2001/fomcminutes20010515.txt",
+    "relative_path": "data/minutes/Minutes/2001/fomcminutes20010515.txt",
+    "sha256": "bbbe083d7b6536d3fa8fc21e32a8e3a475814dac96add8ee219722d1bae5f920"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2001/fomcminutes20010320.txt",
+    "relative_path": "data/minutes/Minutes/2001/fomcminutes20010320.txt",
+    "sha256": "5e42a1504c8758cddc1e0c503393ef5f6b9b91285bb72d996e1dd9537a074ebc"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2001/fomcminutes20011002.txt",
+    "relative_path": "data/minutes/Minutes/2001/fomcminutes20011002.txt",
+    "sha256": "fcdf9af873a61e349acd1ab7b5cd9083071ddf91e5424b5d662ba3a15a24a6a1"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2001/fomcminutes20011211.txt",
+    "relative_path": "data/minutes/Minutes/2001/fomcminutes20011211.txt",
+    "sha256": "de2e72f571509139c23ac807f98be6669cfe2aa33cbebc4c2aa4cfdbf3d038c7"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2001/fomcminutes20010131.txt",
+    "relative_path": "data/minutes/Minutes/2001/fomcminutes20010131.txt",
+    "sha256": "c143c8bad7b14ba4376e799929639d0cbb3fce713747a672554a0f53b6f20189"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2001/fomcminutes20010627.txt",
+    "relative_path": "data/minutes/Minutes/2001/fomcminutes20010627.txt",
+    "sha256": "6496e63e019be1caad5d391546e4ff29e160eb292c1c2e77610727a567ee0aa1"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2001/fomcminutes20011106.txt",
+    "relative_path": "data/minutes/Minutes/2001/fomcminutes20011106.txt",
+    "sha256": "c61854fe1e77199f966b6c8333f9e28ed42a2b900f6ed30c1a48c2b071bd5129"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2006/fomcminutes20060131.txt",
+    "relative_path": "data/minutes/Minutes/2006/fomcminutes20060131.txt",
+    "sha256": "2110e565d012d0910c5ef54d040a0c3594c66e8da5420d8ccb5d0be2c924e655"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2006/fomcminutes20061212.txt",
+    "relative_path": "data/minutes/Minutes/2006/fomcminutes20061212.txt",
+    "sha256": "9eeb002610b49b1970dc3e88a459ee62fee22d64752fc0a4ad29ce14ed1b28d0"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2006/fomcminutes20060808.txt",
+    "relative_path": "data/minutes/Minutes/2006/fomcminutes20060808.txt",
+    "sha256": "fcb74cee58b688350387706fe94f9fe3991b777184a1c6acf3f6bdc4461552fd"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2006/fomcminutes20060629.txt",
+    "relative_path": "data/minutes/Minutes/2006/fomcminutes20060629.txt",
+    "sha256": "6151f73be06b57c1ca915e05ac770336c970674160187c69e7b4455e119c7d37"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2006/fomcminutes20060328.txt",
+    "relative_path": "data/minutes/Minutes/2006/fomcminutes20060328.txt",
+    "sha256": "859cea3201a66426f9339ace32f54d13b1de531372b006b898a9c21e89a940f4"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2006/fomcminutes20060920.txt",
+    "relative_path": "data/minutes/Minutes/2006/fomcminutes20060920.txt",
+    "sha256": "6696557783b04a7aaab4de322653868eb533acc99874c7926b5f793d9104baac"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2006/fomcminutes20060510.txt",
+    "relative_path": "data/minutes/Minutes/2006/fomcminutes20060510.txt",
+    "sha256": "56d84d199d96fb4e8025c74e92162f0f27e59671d8ae9d7cf97338df161b5831"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2006/fomcminutes20061025.txt",
+    "relative_path": "data/minutes/Minutes/2006/fomcminutes20061025.txt",
+    "sha256": "0094a6db421ec56674729e3e42d0fd1abc4f9650c5b9ee30f13959ef60d72b3a"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2007/fomcminutes20071211.txt",
+    "relative_path": "data/minutes/Minutes/2007/fomcminutes20071211.txt",
+    "sha256": "60764542ff49787df84663d608efe82ec8ad3835c365073ebdb23c92c02a107c"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2007/fomcminutes20070509.txt",
+    "relative_path": "data/minutes/Minutes/2007/fomcminutes20070509.txt",
+    "sha256": "2f7ccfbd51004483abb6a4284313b9cfbf803588ffccba93e9ff3be37bd0d33b"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2007/fomcminutes20070131.txt",
+    "relative_path": "data/minutes/Minutes/2007/fomcminutes20070131.txt",
+    "sha256": "4900f4c62578a7088db75fa677309fb6fc575e2561b1e2dc50071dae904a3aae"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2007/fomcminutes20070321.txt",
+    "relative_path": "data/minutes/Minutes/2007/fomcminutes20070321.txt",
+    "sha256": "702c9338fd4b3433fc8911da5149fb10060b87f3d1409d9741e50229cac8b605"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2007/fomcminutes20070807.txt",
+    "relative_path": "data/minutes/Minutes/2007/fomcminutes20070807.txt",
+    "sha256": "dca07cad2b120b9963ee2d8f73d61f380028e409c2a9a21cd2b04c10a6d2d48d"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2007/fomcminutes20070628.txt",
+    "relative_path": "data/minutes/Minutes/2007/fomcminutes20070628.txt",
+    "sha256": "fb659634680a108cfcf7c9ff07c3b257eec1af392fbf11487e7d386966e35271"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2007/fomcminutes20071031.txt",
+    "relative_path": "data/minutes/Minutes/2007/fomcminutes20071031.txt",
+    "sha256": "dd713deb0603564d66d42d0ed3e1d090f29fb0e367652f79db253ee29cfd1d26"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2007/fomcminutes20070918.txt",
+    "relative_path": "data/minutes/Minutes/2007/fomcminutes20070918.txt",
+    "sha256": "ca89498309055a2bbc9cd2c5fb22655bf53b480af4e6623ecc897ea2e46116b6"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2000/fomcminutes20000628.txt",
+    "relative_path": "data/minutes/Minutes/2000/fomcminutes20000628.txt",
+    "sha256": "c6467ecbd3bda46882af8aba663da1004b6f1692b3fc7ab4b17b1d59aff92578"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2000/fomcminutes20000202.txt",
+    "relative_path": "data/minutes/Minutes/2000/fomcminutes20000202.txt",
+    "sha256": "52559a90ef6f284e862e3c34a24341a7468125bc720e398e6096d8d84dfa7d8b"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2000/fomcminutes20000822.txt",
+    "relative_path": "data/minutes/Minutes/2000/fomcminutes20000822.txt",
+    "sha256": "0b043fc18c26b79fa9633889c7e9e9c15864cad19bf1fd457cf5752ed3345f43"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2000/fomcminutes20000516.txt",
+    "relative_path": "data/minutes/Minutes/2000/fomcminutes20000516.txt",
+    "sha256": "b8e139f792ed5cf20150c24eed6827a1aa9b6bb079b1778ff7117db069dc4a98"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2000/fomcminutes20001219.txt",
+    "relative_path": "data/minutes/Minutes/2000/fomcminutes20001219.txt",
+    "sha256": "185be1251da6a324b1bb76d27950d0dcb043be20915b4f58628443a5a04cc772"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2000/fomcminutes20000321.txt",
+    "relative_path": "data/minutes/Minutes/2000/fomcminutes20000321.txt",
+    "sha256": "e47756b08fceecb85f0d5dd5ed275e7a7cc8e8fde7a9d24a1145fa48c2fcabf9"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2000/fomcminutes20001003.txt",
+    "relative_path": "data/minutes/Minutes/2000/fomcminutes20001003.txt",
+    "sha256": "034b2baffd9b7a1566788fab97766e265d69f16a8c7ed184b4aefd6212e433e9"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2000/fomcminutes20001115.txt",
+    "relative_path": "data/minutes/Minutes/2000/fomcminutes20001115.txt",
+    "sha256": "1ee6860c2885c1d4c7a5cbb058155f5248cdb860aa11e9d6e2226af4b95d7b97"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2009/fomcminutes20090429.txt",
+    "relative_path": "data/minutes/Minutes/2009/fomcminutes20090429.txt",
+    "sha256": "06308fa56f06856d5f107103600c8e9d7d54ec366925dbf9578eca4bc6210a7d"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2009/fomcminutes20090128.txt",
+    "relative_path": "data/minutes/Minutes/2009/fomcminutes20090128.txt",
+    "sha256": "3aa27a09a1777bd76fe8414b5f0b59754f9268e18718cfe4391792639b85519b"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2009/fomcminutes20090923.txt",
+    "relative_path": "data/minutes/Minutes/2009/fomcminutes20090923.txt",
+    "sha256": "b493de9ddf868b0678f392565bece2437ac4ebf57e6ae4fe8f83d8d46543bf71"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2009/fomcminutes20090318.txt",
+    "relative_path": "data/minutes/Minutes/2009/fomcminutes20090318.txt",
+    "sha256": "6afa203dfa38615b2facafb9b9cf89b4df1557ee116e0195e90f48413872ae8d"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2009/fomcminutes20091216.txt",
+    "relative_path": "data/minutes/Minutes/2009/fomcminutes20091216.txt",
+    "sha256": "414b4dda55f4ab878e2bb063d804de984daa4ae4f2e8ab7d7add72c353575662"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2009/fomcminutes20091104.txt",
+    "relative_path": "data/minutes/Minutes/2009/fomcminutes20091104.txt",
+    "sha256": "25092fa8cd840ec788773f5b3877df3631f8ce92bdc4519156ad48efd1dc3643"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2009/fomcminutes20090812.txt",
+    "relative_path": "data/minutes/Minutes/2009/fomcminutes20090812.txt",
+    "sha256": "126d4e348816157f93639597061c9434d6bc598fa3414164078a88dd3992d42e"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2009/fomcminutes20090624.txt",
+    "relative_path": "data/minutes/Minutes/2009/fomcminutes20090624.txt",
+    "sha256": "d95249e1fd27ca7fc12cf9b7e5e02ce39267ae92cd4e00c47af411e508c06191"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2017/fomcminutes20171213.txt",
+    "relative_path": "data/minutes/Minutes/2017/fomcminutes20171213.txt",
+    "sha256": "ac17a5b52138309c87067e8f3441a4091aa2b42113b5d48708c9ea5be74c169c"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2017/fomcminutes20170726.txt",
+    "relative_path": "data/minutes/Minutes/2017/fomcminutes20170726.txt",
+    "sha256": "1bfb3271d70789758256ecaa307b3689415996b87a3fe3b84a0173752f8a080b"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2017/fomcminutes20171101.txt",
+    "relative_path": "data/minutes/Minutes/2017/fomcminutes20171101.txt",
+    "sha256": "cde6bbd9c023d1ff1ee6d61efbe6d304c76d944d1b8c29d7fb4b9811282377f8"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2017/fomcminutes20170614.txt",
+    "relative_path": "data/minutes/Minutes/2017/fomcminutes20170614.txt",
+    "sha256": "45c98761ddb1a6b2100a9b43e1dd99c0ab31b4e96ab39321451b407ba8ac0e03"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2017/fomcminutes20170201.txt",
+    "relative_path": "data/minutes/Minutes/2017/fomcminutes20170201.txt",
+    "sha256": "a2dd90da2f64dfbe068719bc153326002c025332bd8664e7a6789de31dd9e6f5"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2017/fomcminutes20170503.txt",
+    "relative_path": "data/minutes/Minutes/2017/fomcminutes20170503.txt",
+    "sha256": "77f36206cbea0d5b822e6141276ddaeef8383686866660bd5eac553369a52121"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2017/fomcminutes20170920.txt",
+    "relative_path": "data/minutes/Minutes/2017/fomcminutes20170920.txt",
+    "sha256": "3547d0c56842a609c9a5419bb9048d9394992e51524d18f42a1f69b421e11639"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2017/fomcminutes20170315.txt",
+    "relative_path": "data/minutes/Minutes/2017/fomcminutes20170315.txt",
+    "sha256": "60402c9646cb73f261f420149706596c6a7b555452c9bc056d3a4285250a7979"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2010/fomcminutes20100428.txt",
+    "relative_path": "data/minutes/Minutes/2010/fomcminutes20100428.txt",
+    "sha256": "832e95cde86ed1201a94d708b27e5d61e3ff3d42ae43080c64da3d63846f0b01"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2010/fomcminutes20100921.txt",
+    "relative_path": "data/minutes/Minutes/2010/fomcminutes20100921.txt",
+    "sha256": "5a4832283a1dcabb66a7284c9d5d0e2fecf8622af532c4fa6406c6705c82a194"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2010/fomcminutes20100316.txt",
+    "relative_path": "data/minutes/Minutes/2010/fomcminutes20100316.txt",
+    "sha256": "6b1755c87e863a088dfdc40066bf26aa6a227b03a7e69bb63686d674582ab51f"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2010/fomcminutes20100127.txt",
+    "relative_path": "data/minutes/Minutes/2010/fomcminutes20100127.txt",
+    "sha256": "b7fa600d266d458bb47a9693bf6a6a43a8d632ce4e2ab74b31fb18eacd46d9de"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2010/fomcminutes20101214.txt",
+    "relative_path": "data/minutes/Minutes/2010/fomcminutes20101214.txt",
+    "sha256": "74c8d9409fd317b34b8aa0b1c93f8880f24a0b631cf8edf6bdc011e64b689052"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2010/fomcminutes20100810.txt",
+    "relative_path": "data/minutes/Minutes/2010/fomcminutes20100810.txt",
+    "sha256": "e3b9e7221fd66e3a4e6393e960ca9ea83af6eff7b8974b3e235c7d32b5b6c7f6"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2010/fomcminutes20100623.txt",
+    "relative_path": "data/minutes/Minutes/2010/fomcminutes20100623.txt",
+    "sha256": "d065ae66b6902e007f8132a772f396eb279c0b60f36d76b8d51bbc846bc54a9b"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2010/fomcminutes20101103.txt",
+    "relative_path": "data/minutes/Minutes/2010/fomcminutes20101103.txt",
+    "sha256": "6fb17f42bca8ea618618af5a73502ee099171dbba6c9f4cfa1031124fae2feeb"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2019/fomcminutes20190501.txt",
+    "relative_path": "data/minutes/Minutes/2019/fomcminutes20190501.txt",
+    "sha256": "3a535b66717b62b999fe34e628a298910e41574c6f8a2ce3d619730ef9e6f8f5"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2019/fomcminutes20190918.txt",
+    "relative_path": "data/minutes/Minutes/2019/fomcminutes20190918.txt",
+    "sha256": "365c7e5090790da4afc3c06c5a3d86d1e048391a4368d73b4681747a31fde42a"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2019/fomcminutes20191030.txt",
+    "relative_path": "data/minutes/Minutes/2019/fomcminutes20191030.txt",
+    "sha256": "6ffdd7350fe7774815f9f1b66e7a8c0948cbb3a517f9a9f6a2e9c45fcd331200"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2019/fomcminutes20191211.txt",
+    "relative_path": "data/minutes/Minutes/2019/fomcminutes20191211.txt",
+    "sha256": "f38e976e71cd6f7be074ca8ffa67fdc7cf56e4ca68b15ebe1fa4620faa248f01"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2019/fomcminutes20190130.txt",
+    "relative_path": "data/minutes/Minutes/2019/fomcminutes20190130.txt",
+    "sha256": "00a770f064c0ec4c4669ac8f96f7520a6374c6cea94c839428512470d72e8d06"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2019/fomcminutes20190320.txt",
+    "relative_path": "data/minutes/Minutes/2019/fomcminutes20190320.txt",
+    "sha256": "aab4a703f5045a4f6ec0fed3f55a776c4f15e2172e66301f6f9fc8d4b4071e65"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2019/fomcminutes20190731.txt",
+    "relative_path": "data/minutes/Minutes/2019/fomcminutes20190731.txt",
+    "sha256": "37d32e9165e15727c4c9a64b22835c4c43ae89a70353fd59915f3afc330c04a7"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2019/fomcminutes20190619.txt",
+    "relative_path": "data/minutes/Minutes/2019/fomcminutes20190619.txt",
+    "sha256": "0409232720d24cdddfd353d29607f7ebd1af62de9c835d22c902793bda8e656f"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2021/fomcminutes20210127.txt",
+    "relative_path": "data/minutes/Minutes/2021/fomcminutes20210127.txt",
+    "sha256": "2a71acb2ba62e81fe9e5e6f66de5c363a300502fbd52f74ef0ba830df77cb253"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2021/fomcminutes20211215.txt",
+    "relative_path": "data/minutes/Minutes/2021/fomcminutes20211215.txt",
+    "sha256": "e55a74b4ef3a79f34c2bae0c88a7fa7bc0210e02d35de4e5955c2b08e3892e99"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2021/fomcminutes20211103.txt",
+    "relative_path": "data/minutes/Minutes/2021/fomcminutes20211103.txt",
+    "sha256": "46658af731a7a67359cfd4032237dae9adab753342172a609f00de813220adec"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2021/fomcminutes20210616.txt",
+    "relative_path": "data/minutes/Minutes/2021/fomcminutes20210616.txt",
+    "sha256": "d46590f33e81ad04b92aed1283d63bc45511ca06e7e651befb2c651500a3b4e8"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2021/fomcminutes20210428.txt",
+    "relative_path": "data/minutes/Minutes/2021/fomcminutes20210428.txt",
+    "sha256": "166ee54b09357678978a09527976f98844a6d16f3fab5d92fd74c90b8d923484"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2021/fomcminutes20210728.txt",
+    "relative_path": "data/minutes/Minutes/2021/fomcminutes20210728.txt",
+    "sha256": "5db278af53c303887d239e0991aa65291e6eac640a971fad2dcd81157024b322"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2021/fomcminutes20210922.txt",
+    "relative_path": "data/minutes/Minutes/2021/fomcminutes20210922.txt",
+    "sha256": "aea2a9f375a446d96786ea879a2b47228c8a4f3912807b2425860a86790e4e31"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2021/fomcminutes20210317.txt",
+    "relative_path": "data/minutes/Minutes/2021/fomcminutes20210317.txt",
+    "sha256": "397d9e760d024fca525137b43a7a208d452b594e6add89d0b39e2eaa9512cd44"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2020/fomcminutes20201216.txt",
+    "relative_path": "data/minutes/Minutes/2020/fomcminutes20201216.txt",
+    "sha256": "a53a2d2f6c65099856caa1e3fd8be1f844943b0e6457f7ef335bda34276ef0a5"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2020/fomcminutes20200916.txt",
+    "relative_path": "data/minutes/Minutes/2020/fomcminutes20200916.txt",
+    "sha256": "b154f4958d2fe20933c1c78dd9210b869cc2544c0162dfc533a907137f1391e9"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2020/fomcminutes20201105.txt",
+    "relative_path": "data/minutes/Minutes/2020/fomcminutes20201105.txt",
+    "sha256": "5e53f3d0ea4b40eda81575a2a34040d3922b703e8acd12eb0a8caa64631518c0"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2020/fomcminutes20200610.txt",
+    "relative_path": "data/minutes/Minutes/2020/fomcminutes20200610.txt",
+    "sha256": "08c4d1f92d6aab0b500bd080f15fbe153b6ddbf83cf3ee4df3a6f2b067f5abce"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2020/fomcminutes20200429.txt",
+    "relative_path": "data/minutes/Minutes/2020/fomcminutes20200429.txt",
+    "sha256": "f193645627e78ed5b7adee355d82d9ce020df3a2a93247b5e1df7de522266abe"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2020/fomcminutes20200129.txt",
+    "relative_path": "data/minutes/Minutes/2020/fomcminutes20200129.txt",
+    "sha256": "a9135024dc0c6f3d5cee61aaf37837bf69eee1163a274aabebafece479a42707"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2020/fomcminutes20200315.txt",
+    "relative_path": "data/minutes/Minutes/2020/fomcminutes20200315.txt",
+    "sha256": "5fb548f3cb937bd44ec350b3bfb875adfca91cb32b279cf2291667d0c41367e6"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2020/fomcminutes20200729.txt",
+    "relative_path": "data/minutes/Minutes/2020/fomcminutes20200729.txt",
+    "sha256": "11cee8c1f72d25fe069df97a08ccb147b777add7019e92898467055c32481aff"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2018/fomcminutes20181108.txt",
+    "relative_path": "data/minutes/Minutes/2018/fomcminutes20181108.txt",
+    "sha256": "0b87231d3ca826beca7e0a236bf37a35f58ff94774a59d71556994e368314365"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2018/fomcminutes20180613.txt",
+    "relative_path": "data/minutes/Minutes/2018/fomcminutes20180613.txt",
+    "sha256": "76914a52043114c313b476dc2ce9d1eb554108c1ad59a72944e5ef86d94bd48c"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2018/fomcminutes20180502.txt",
+    "relative_path": "data/minutes/Minutes/2018/fomcminutes20180502.txt",
+    "sha256": "ed465d488ebda31dc830523b784248e7e7960f3036862c93a8a9f9670ac2f412"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2018/fomcminutes20180926.txt",
+    "relative_path": "data/minutes/Minutes/2018/fomcminutes20180926.txt",
+    "sha256": "96ce78947c8affe72f31c87cfb4f4bd3e9958b2fb78ec15cc1344ab6568840cf"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2018/fomcminutes20181219.txt",
+    "relative_path": "data/minutes/Minutes/2018/fomcminutes20181219.txt",
+    "sha256": "e7e202f08e02e581068c94d8dffdd042f27e6e757ee274f6b3fdf61e2baf7c93"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2018/fomcminutes20180321.txt",
+    "relative_path": "data/minutes/Minutes/2018/fomcminutes20180321.txt",
+    "sha256": "d8ea6ac861d9687346cdbe086b7a4049e3620de13196772aa8863f01c0cf4084"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2018/fomcminutes20180131.txt",
+    "relative_path": "data/minutes/Minutes/2018/fomcminutes20180131.txt",
+    "sha256": "d1e3e6c8f96182b720ed27e9ac2fc60dfa0375415d798310b42e6f4e9eded57d"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2018/fomcminutes20180801.txt",
+    "relative_path": "data/minutes/Minutes/2018/fomcminutes20180801.txt",
+    "sha256": "e5e5c363a56f91cfd0156d56ff40da0315740452e7d99fd804b7558cafb8f097"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2011/fomcminutes20110809.txt",
+    "relative_path": "data/minutes/Minutes/2011/fomcminutes20110809.txt",
+    "sha256": "0c76a22757af17dc654f7dc8a32fc357311dbcfcb4c25f989b5438a6bac88b98"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2011/fomcminutes20110921.txt",
+    "relative_path": "data/minutes/Minutes/2011/fomcminutes20110921.txt",
+    "sha256": "5208ceb17800501c323e1f0a1e8cd4ad89f74528f9bb0da6d0a80ac7bb93b348"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2011/fomcminutes20110315.txt",
+    "relative_path": "data/minutes/Minutes/2011/fomcminutes20110315.txt",
+    "sha256": "bdff1303fbdcc7e59363140d166ff52e104c20b96e828cbac4900295acbdcdf1"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2011/fomcminutes20110126.txt",
+    "relative_path": "data/minutes/Minutes/2011/fomcminutes20110126.txt",
+    "sha256": "824211c874a82983d38a778fd0ad9fb2dbecb79745125f84b316650631461af1"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2011/fomcminutes20111213.txt",
+    "relative_path": "data/minutes/Minutes/2011/fomcminutes20111213.txt",
+    "sha256": "ed21fbd68e8522ed06589a3093e5e0060a480109c69ca2df853ed0a592126e88"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2011/fomcminutes20111102.txt",
+    "relative_path": "data/minutes/Minutes/2011/fomcminutes20111102.txt",
+    "sha256": "37ba898740b7b34d534a15cbc105ed36cf6f64d47233cbac934cbe683c0ec437"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2011/fomcminutes20110427.txt",
+    "relative_path": "data/minutes/Minutes/2011/fomcminutes20110427.txt",
+    "sha256": "868c718080b903bb15fab2cd4df080733104a323d1c574488db141e90a98e60d"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2011/fomcminutes20110622.txt",
+    "relative_path": "data/minutes/Minutes/2011/fomcminutes20110622.txt",
+    "sha256": "ce4b95bb8c3ff2e01d33058a312b3c5189c7f3aac176a05250dd1c44ff168aaf"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2016/fomcminutes20161214.txt",
+    "relative_path": "data/minutes/Minutes/2016/fomcminutes20161214.txt",
+    "sha256": "6e089ab082133967b6d69a0e1a0c0660931f4ba98c43bada0bb1bfd17a0cbcb8"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2016/fomcminutes20160727.txt",
+    "relative_path": "data/minutes/Minutes/2016/fomcminutes20160727.txt",
+    "sha256": "9f4b1bf536ebe8767e6a429bc77a1478a77bd6f49597a57c89b197272271f88c"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2016/fomcminutes20160127.txt",
+    "relative_path": "data/minutes/Minutes/2016/fomcminutes20160127.txt",
+    "sha256": "019b0bb1debe7447377777118ea0839e32b36c255b905828e4ebb25d7f2b3895"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2016/fomcminutes20160427.txt",
+    "relative_path": "data/minutes/Minutes/2016/fomcminutes20160427.txt",
+    "sha256": "24c1fdd40be486cd72436fe5af43e6f31e1972333bedb0d130994a0f02f481eb"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2016/fomcminutes20161102.txt",
+    "relative_path": "data/minutes/Minutes/2016/fomcminutes20161102.txt",
+    "sha256": "f0b622e19e324397b0cd7f987df505f360b4936f7e7fe61d8b6485c4866adee1"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2016/fomcminutes20160615.txt",
+    "relative_path": "data/minutes/Minutes/2016/fomcminutes20160615.txt",
+    "sha256": "b241c6a8b1d8b1c1a1c1bf1b253fac4d2721c477425508a7023ddd157f3d8c87"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2016/fomcminutes20160316.txt",
+    "relative_path": "data/minutes/Minutes/2016/fomcminutes20160316.txt",
+    "sha256": "6c5e5650375aae7dec80f599cd87e5e70e865de4fa1ec858203c6f8af6c3e6ad"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2016/fomcminutes20160921.txt",
+    "relative_path": "data/minutes/Minutes/2016/fomcminutes20160921.txt",
+    "sha256": "45176c753837cd523e629e12f331e8fd673d86b3dfb700800fd92356d2e728d5"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2005/fomcminutes20050630.txt",
+    "relative_path": "data/minutes/Minutes/2005/fomcminutes20050630.txt",
+    "sha256": "81e4f0259c0ec6025157792f6e7aebb278d1fa9721f47ae23b289095e9543ce8"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2005/fomcminutes20051101.txt",
+    "relative_path": "data/minutes/Minutes/2005/fomcminutes20051101.txt",
+    "sha256": "cab7e13c6d602bf8a37e1eb626907b607c60ae5a7bd76d4840fe410495cbc902"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2005/fomcminutes20050322.txt",
+    "relative_path": "data/minutes/Minutes/2005/fomcminutes20050322.txt",
+    "sha256": "c602fb317c10a80bc6d0fd8c854a525bb843ef824572aa06331a4d8c6241c65f"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2005/fomcminutes20051213.txt",
+    "relative_path": "data/minutes/Minutes/2005/fomcminutes20051213.txt",
+    "sha256": "0cca451e6a848ebcd1686a3689deb366aff7a6854edee927cc7e4e70dcbae621"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2005/fomcminutes20050920.txt",
+    "relative_path": "data/minutes/Minutes/2005/fomcminutes20050920.txt",
+    "sha256": "f5bef383eaf89e2c80a67146ea258078bdb51c8ca2931213f00191b8af315f8b"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2005/fomcminutes20050503.txt",
+    "relative_path": "data/minutes/Minutes/2005/fomcminutes20050503.txt",
+    "sha256": "52032d8d86c6f4463ba69378b0e01cbae91913ba461659f6b1e13639e0910461"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2005/fomcminutes20050202.txt",
+    "relative_path": "data/minutes/Minutes/2005/fomcminutes20050202.txt",
+    "sha256": "a21c96f454a7d5f24dc3cd88b371c22e89b0f0d4b24a4ae56c720528f37a2db9"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2005/fomcminutes20050809.txt",
+    "relative_path": "data/minutes/Minutes/2005/fomcminutes20050809.txt",
+    "sha256": "f81c7fcabdd42e042de1ab99261ffc998a8458d9cb5335724b8dfaa9743bb5f9"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2002/fomcminutes20020507.txt",
+    "relative_path": "data/minutes/Minutes/2002/fomcminutes20020507.txt",
+    "sha256": "129bb77d229ad36dcb5b69bbc15a3a294edfaeab6c48c83284714099091a2a23"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2002/fomcminutes20020924.txt",
+    "relative_path": "data/minutes/Minutes/2002/fomcminutes20020924.txt",
+    "sha256": "1a1fe23569cd0ebf3aeb343e3d704672b7bda6ac3791cbbb677582269e96fc69"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2002/fomcminutes20020626.txt",
+    "relative_path": "data/minutes/Minutes/2002/fomcminutes20020626.txt",
+    "sha256": "9976ada8ea814ff8261ab7d7e74b87fe5b982e52f50ce3e1c229b0deffe233f8"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2002/fomcminutes20021106.txt",
+    "relative_path": "data/minutes/Minutes/2002/fomcminutes20021106.txt",
+    "sha256": "04689b96bbd8ec8cc597e7523fc28b73a65ab40224becc91b99c651f92e43c1b"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2002/fomcminutes20020813.txt",
+    "relative_path": "data/minutes/Minutes/2002/fomcminutes20020813.txt",
+    "sha256": "a5de98b7dc08db186808b38e901e4f995afb232736a514d6439be43d46b6b19d"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2002/fomcminutes20020130.txt",
+    "relative_path": "data/minutes/Minutes/2002/fomcminutes20020130.txt",
+    "sha256": "ba663b4d7a7e5d77d64c199ba4e100cd5ea17774d1fa39ab3a04bdc0bba019d8"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2002/fomcminutes20020319.txt",
+    "relative_path": "data/minutes/Minutes/2002/fomcminutes20020319.txt",
+    "sha256": "a9369ebd0c0aba53478754d569f64e0b7fe9e67b576b5053824bcf60bf902f3b"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2002/fomcminutes20021210.txt",
+    "relative_path": "data/minutes/Minutes/2002/fomcminutes20021210.txt",
+    "sha256": "912f0ec6f44b7cccba09287d803201d4fe6ae7786d2d72c6864cf7c412f3a9f4"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2003/fomcminutes20030129.txt",
+    "relative_path": "data/minutes/Minutes/2003/fomcminutes20030129.txt",
+    "sha256": "ada0ca767561dd1460595292474c4d1de61f6e244dd5328251cae278c968b2c7"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2003/fomcminutes20031209.txt",
+    "relative_path": "data/minutes/Minutes/2003/fomcminutes20031209.txt",
+    "sha256": "7131820adc2fb869ed802dd117df5399b9e3adec16da4941d8c4d20aaebe111c"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2003/fomcminutes20030506.txt",
+    "relative_path": "data/minutes/Minutes/2003/fomcminutes20030506.txt",
+    "sha256": "0765d7168390cf67a6a31ba9abbb6f4c08941364464ee852313e3dcfe5ac4316"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2003/fomcminutes20030812.txt",
+    "relative_path": "data/minutes/Minutes/2003/fomcminutes20030812.txt",
+    "sha256": "1e7bc4a504f42b43e2ddadc050959dbdd0aef9464724f7b662cf58b9e35ef7f3"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2003/fomcminutes20030625.txt",
+    "relative_path": "data/minutes/Minutes/2003/fomcminutes20030625.txt",
+    "sha256": "3c3849777f308574518a560769f1da725e9f714810b07a936358decff0234994"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2003/fomcminutes20030318.txt",
+    "relative_path": "data/minutes/Minutes/2003/fomcminutes20030318.txt",
+    "sha256": "26db7e02c8cea7a3b361d39b5aa6cc715fdeb37736964bca563a4f5cbda5d4e7"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2003/fomcminutes20031028.txt",
+    "relative_path": "data/minutes/Minutes/2003/fomcminutes20031028.txt",
+    "sha256": "225d1e3fd1b5bd26d7939abb6a0107cf0ccc612e7929812b1e67572c7301a7ba"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2003/fomcminutes20030916.txt",
+    "relative_path": "data/minutes/Minutes/2003/fomcminutes20030916.txt",
+    "sha256": "0c1fb45420571e8a88e7dd0f667bc2241d7a59b21db4671685cfd98fbc7052fc"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2004/fomcminutes20040810.txt",
+    "relative_path": "data/minutes/Minutes/2004/fomcminutes20040810.txt",
+    "sha256": "71632fe99fcb435337dc66ef531969db1320e5104415d5eeeeba05ab79d78aae"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2004/fomcminutes20041110.txt",
+    "relative_path": "data/minutes/Minutes/2004/fomcminutes20041110.txt",
+    "sha256": "0d455525f69faeedabc12aa18baaae3928d4d34dac776634003cb5f39a8483e4"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2004/fomcminutes20040630.txt",
+    "relative_path": "data/minutes/Minutes/2004/fomcminutes20040630.txt",
+    "sha256": "5c87604b8d0a520590d3ac98484f4790bd64f650b2331b5d87442c34c1421160"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2004/fomcminutes20041214.txt",
+    "relative_path": "data/minutes/Minutes/2004/fomcminutes20041214.txt",
+    "sha256": "eb66f394280662f17c40dbe713e3fec9d6a04e21dc0e97a9b10000164ab0f93e"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2004/fomcminutes20040921.txt",
+    "relative_path": "data/minutes/Minutes/2004/fomcminutes20040921.txt",
+    "sha256": "1eb9d2fca539e6f388cfd21a01f2940202b8a0bbfa9fd7f786a6a7d6470caf9e"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2004/fomcminutes20040504.txt",
+    "relative_path": "data/minutes/Minutes/2004/fomcminutes20040504.txt",
+    "sha256": "f91b89db4e6df40128eab6763378afe7c8eb6c3598c432f551bdf3df0db681c1"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2004/fomcminutes20040316.txt",
+    "relative_path": "data/minutes/Minutes/2004/fomcminutes20040316.txt",
+    "sha256": "9690816f522dddab6e44807b3c0dd374c75e7200efc84598e323f94dd6ad6e95"
+  },
+  {
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/Minutes/2004/fomcminutes20040128.txt",
+    "relative_path": "data/minutes/Minutes/2004/fomcminutes20040128.txt",
+    "sha256": "708c1cef41ac64db85273a27c798b16f9c184737cbf3a85382be214603fbcfaa"
+  }
+]

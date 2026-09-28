@@ -1,0 +1,22 @@
+{
+  "figure": "4A",
+  "pdf_page": 49,
+  "draw_index": 359,
+  "n": 184,
+  "x_convention": "year+month/12; one observation per scheduled meeting month in1994-2016",
+  "max_x_residual_pdf_points": 0.007011105568381026,
+  "max_rounding_residual_count": 0.0016253017578340412,
+  "sum_counts": 975,
+  "published_table6_total": 975,
+  "aggregate_matches_table6": true,
+  "all_direction_counts_bounded_by_total": true,
+  "y_ticks_pdf": [
+    268.843017578125,
+    231.73297119140625,
+    194.6240234375,
+    157.5269775390625,
+    120.41802978515625,
+    83.3089599609375
+  ],
+  "sha256": "dbc3380b1463b0e72b6360a4e46cdc39658cfdf83606b9d010ebde0377d0bb88"
+}

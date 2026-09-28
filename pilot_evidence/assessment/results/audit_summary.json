@@ -1,0 +1,56 @@
+{
+  "source_root": "/mnt/data/adaptive_reader_review_source",
+  "production_records": 370,
+  "production_unique_passages": 370,
+  "production_meetings": 80,
+  "phase_counts": {
+    "calibration": 253,
+    "feedback": 117
+  },
+  "all_saved_responses": 420,
+  "all_unique_passages": 376,
+  "schema_valid_production": 370,
+  "quote_valid_production": 370,
+  "input_hash_valid_production": 370,
+  "fold0_role_passages": {
+    "calibration": 253,
+    "evaluation": 129,
+    "feedback": 117,
+    "gate": 130
+  },
+  "smoke_roles": {
+    "calibration": 44,
+    "unlabeled": 6
+  },
+  "calibration_alpha": 1.0,
+  "calibration_training_mse": 11.921789277515778,
+  "calibration_inner_validation_mse_selected": 14.69107356215287,
+  "feedback_mse": 40.10811039316515,
+  "feedback_mse_difference_from_report": 2.1316282072803006e-14,
+  "feedback_top_six_dates": [
+    "2008-10-29",
+    "2008-04-30",
+    "2008-06-25",
+    "2009-06-24",
+    "2008-08-05",
+    "2009-04-29"
+  ],
+  "max_control_prediction_difference": 1.8207657603852567e-14,
+  "supplied_tests_run": 11,
+  "supplied_tests_passed": true,
+  "lock_file_hash": "d496ba534b9aee0ce9e9ac81a8c578e2d387ce2c033889e5d4cf5344ec152bef",
+  "prompt_file_hash_checks": {
+    "frozen_reader": true,
+    "blind_proposer": true,
+    "reflector": true,
+    "proposed_protocol": true
+  },
+  "unmatched_learning_curve_candidate_hashes": [
+    "439ba5b4adce1d3d63b211d148721255e2f75fcab9ebfaef9aa5a5e3c861219f"
+  ],
+  "adaptive_reader_predictions": 0,
+  "candidate_response_files": 0,
+  "provider_invocation_independently_authenticated": false,
+  "provider_transcripts_present": false,
+  "auditor_llm_inference_calls": 0
+}

@@ -1,0 +1,22 @@
+{
+  "passage_id": "34154b5b1baf14c1c877a1c2",
+  "response": {
+    "tone": "unclear",
+    "evidence": [
+      {
+        "quote": "Increasing home equity values"
+      }
+    ],
+    "reason_code": "not_equity_specific"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "20f69001-b9f3-4601-8f11-f57a1d5a2927",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "8206d7e603845b30e5c4f828aa0d1e85b92500c86b283a3ae79ef243abff53b2"
+}

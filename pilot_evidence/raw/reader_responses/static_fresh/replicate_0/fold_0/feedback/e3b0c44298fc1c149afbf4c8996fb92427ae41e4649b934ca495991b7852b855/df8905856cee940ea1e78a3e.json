@@ -1,0 +1,25 @@
+{
+  "passage_id": "df8905856cee940ea1e78a3e",
+  "response": {
+    "tone": "negative",
+    "evidence": [
+      {
+        "quote": "Broad-based equity indexes were volatile and ended the period down noticeably."
+      },
+      {
+        "quote": "Financial stocks were especially hard hit, dropping substantially more than the broad indexes."
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "feedback",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "a25fec3f-f013-4132-b4dd-4460a336aea0",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "42fc46b2c68a7df66de06d19ffdc3c094bc06f39b7bc2221a68e5af71f64c891"
+}

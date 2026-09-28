@@ -1,0 +1,26 @@
+[
+  {
+    "model": "gemini",
+    "n": 99,
+    "max_prediction_delta": 0.0,
+    "passed": true
+  },
+  {
+    "model": "flash_five",
+    "n": 99,
+    "max_prediction_delta": 0.0,
+    "passed": true
+  },
+  {
+    "model": "rules_whole_linear",
+    "n": 99,
+    "max_prediction_delta": 0.0,
+    "passed": true
+  },
+  {
+    "model": "tfidf",
+    "n": 99,
+    "max_prediction_delta": 0.0,
+    "passed": true
+  }
+]

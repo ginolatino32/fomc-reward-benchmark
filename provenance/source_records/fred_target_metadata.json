@@ -1,0 +1,13 @@
+{
+  "downloaded_at": "2026-05-20T11:52:25",
+  "source_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFEDTAR,DFEDTARU,DFEDTARL",
+  "series": {
+    "DFEDTAR": "Federal funds target rate; single target series through 2008-12-15.",
+    "DFEDTARU": "Federal funds target range upper limit from 2008-12-16.",
+    "DFEDTARL": "Federal funds target range lower limit from 2008-12-16."
+  },
+  "output": "<local_drive>/Stevens/2026SummerResearch/fed_put_ai_nlp_outputs/data_raw/fred_ffr_target_range/fred_federal_funds_target_range.csv",
+  "rows": 15942,
+  "date_min": "1982-09-27",
+  "date_max": "2026-05-20"
+}

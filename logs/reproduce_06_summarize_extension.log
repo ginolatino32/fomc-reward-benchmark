@@ -1,0 +1,21 @@
+                model                   benchmark  n  block_length  mse_gain_pct  ci_low  ci_high  conditional_two_sided_p                                                                 scope  holm_six
+               gemini          rules_whole_linear 99             4       26.2228  7.4868  39.2761                   0.0613 post-discovery fixed loss comparison; not research-selection adjusted    0.3192
+               gemini       rules_whole_quadratic 99             4       19.8506 -3.5922  34.2017                   0.1474 post-discovery fixed loss comparison; not research-selection adjusted    0.3369
+               gemini        rules_matched_phrase 99             4       28.6103  6.4405  43.3993                   0.0680 post-discovery fixed loss comparison; not research-selection adjusted    0.3192
+           flash_five       rules_whole_quadratic 99             4       18.0883 -2.5671  30.9864                   0.1123 post-discovery fixed loss comparison; not research-selection adjusted    0.3369
+flash_two_plus_volume rules_two_votes_plus_volume 99             4       19.5671  5.3543  28.0715                   0.0532 post-discovery fixed loss comparison; not research-selection adjusted    0.3192
+   gemini_plus_volume   rules_matched_plus_volume 99             4       24.0448 -1.4285  39.4554                   0.1263 post-discovery fixed loss comparison; not research-selection adjusted    0.3369
+        family  n     mse   rmse   mae  oos_r2
+lexical_family 99 16.8112 4.1001 2.907  0.3239
+    llm_family 99 12.6755 3.5603 2.569  0.4902
+        family  fold       chosen_model  validation_mse  alpha                                                             scope
+lexical_family     0 rules_whole_linear       26.351341 0.0001 training-only selection; family defined after historical research
+lexical_family     1 rules_whole_linear       21.589104 1.0000 training-only selection; family defined after historical research
+lexical_family     2 rules_whole_linear       23.356743 1.0000 training-only selection; family defined after historical research
+lexical_family     3 rules_whole_linear       20.265197 0.0100 training-only selection; family defined after historical research
+lexical_family     4 rules_whole_linear       23.826994 0.0001 training-only selection; family defined after historical research
+    llm_family     0         flash_five       18.215185 1.0000 training-only selection; family defined after historical research
+    llm_family     1         flash_five       15.330368 1.0000 training-only selection; family defined after historical research
+    llm_family     2         flash_five       16.513641 1.0000 training-only selection; family defined after historical research
+    llm_family     3         flash_five       15.056149 1.0000 training-only selection; family defined after historical research
+    llm_family     4         flash_five       17.269227 1.0000 training-only selection; family defined after historical research

@@ -1,0 +1,25 @@
+{
+  "passage_id": "e291392b0960187895c8ba31",
+  "response": {
+    "tone": "negative",
+    "evidence": [
+      {
+        "quote": "broad equity price measures fell considerably further in volatile trading after the markets reopened on September 17"
+      },
+      {
+        "quote": "part of those losses had been recovered by the time of this meeting"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "6cf68fa0-d13a-4dad-9ef3-472f31ea0315",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "e14364c00af1b69c0212e02c0587734e4376f62a93f24aef424c5bff970bc079"
+}

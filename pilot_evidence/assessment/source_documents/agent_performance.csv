@@ -1,0 +1,17 @@
+arm_id,replicate,evaluation_design,n_eval,mse,rmse,mae,oos_r2,fallback_count,mean_reader_tokens,total_calls,total_cost_usd,status
+embedding,0,calibration_only_60_20_20_v1,99,14.35119700965283,3.788297376085044,2.7836249901722296,0.47596352758158467,0,0,0,0.0,COMPLETE_RECALIBRATED_CONTROL
+rules_linear,0,calibration_only_60_20_20_v1,99,16.693677945271425,4.0857897578401445,2.8690011976784606,0.390427425932134,0,0,0,0.0,COMPLETE_RECALIBRATED_CONTROL
+rules_quadratic,0,calibration_only_60_20_20_v1,99,16.5955596308656,4.073764798176939,2.9380024922526093,0.39401023336807717,0,0,0,0.0,COMPLETE_RECALIBRATED_CONTROL
+tfidf,0,calibration_only_60_20_20_v1,99,27.38572991809716,5.233137674292275,4.121346350060208,5.275432403806235e-06,0,0,0,0.0,COMPLETE_RECALIBRATED_CONTROL
+static_fresh,0,calibration_only_60_20_20_v1,,,,,,,,,,BLOCKED
+static_fresh,1,calibration_only_60_20_20_v1,,,,,,,,,,BLOCKED
+static_fresh,2,calibration_only_60_20_20_v1,,,,,,,,,,BLOCKED
+blind_search,0,calibration_only_60_20_20_v1,,,,,,,,,,BLOCKED
+blind_search,1,calibration_only_60_20_20_v1,,,,,,,,,,BLOCKED
+blind_search,2,calibration_only_60_20_20_v1,,,,,,,,,,BLOCKED
+reflection_ungated,0,calibration_only_60_20_20_v1,,,,,,,,,,BLOCKED
+reflection_ungated,1,calibration_only_60_20_20_v1,,,,,,,,,,BLOCKED
+reflection_ungated,2,calibration_only_60_20_20_v1,,,,,,,,,,BLOCKED
+reflection_gated,0,calibration_only_60_20_20_v1,,,,,,,,,,BLOCKED
+reflection_gated,1,calibration_only_60_20_20_v1,,,,,,,,,,BLOCKED
+reflection_gated,2,calibration_only_60_20_20_v1,,,,,,,,,,BLOCKED

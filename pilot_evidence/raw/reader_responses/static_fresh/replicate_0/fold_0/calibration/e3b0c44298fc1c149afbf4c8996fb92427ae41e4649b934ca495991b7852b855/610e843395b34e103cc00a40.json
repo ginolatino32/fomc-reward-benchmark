@@ -1,0 +1,22 @@
+{
+  "passage_id": "610e843395b34e103cc00a40",
+  "response": {
+    "tone": "unclear",
+    "evidence": [
+      {
+        "quote": "sizable declines in forward-looking measures of uncertainty in short- and long-term interest rates, exchange rates, and oil and equity prices"
+      }
+    ],
+    "reason_code": "not_equity_specific"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "982e70e5-517a-42b3-a6a7-05cd5619342a",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "021790e6006dc40c14dad8b300b10f7ab24608047a7d85d4b9abbb670c940092"
+}

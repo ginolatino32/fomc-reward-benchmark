@@ -1,0 +1,15 @@
+state_return rules_whole_linear done
+state_return rules_whole_quadratic done
+state_return rules_matched_phrase done
+state_return rules_matched_quadratic done
+state_return rules_matched_two_votes done
+state_return rules_matched_four_votes done
+state_return rules_matched_plus_volume done
+state_return rules_two_votes_plus_volume done
+state_return flash_two_counts done
+state_return flash_two_plus_volume done
+state_return flash_five done
+state_return gemini done
+state_return gemini_plus_volume done
+state_return length_volume_only done
+state_return tfidf done

@@ -1,0 +1,28 @@
+{
+  "status": "Exploratory extension. Written before examining new count-regression results, but after inspecting the source and code.",
+  "date": "2026-09-19",
+  "target": "Existing state_return proxy; unchanged from manuscript",
+  "representations": ["uploaded_as_received", "dictionary_only_correction", "audited_reconstruction"],
+  "primary_count_readout": "negative and positive counts as one standardized numeric block; existing document_sentence_count as a separate length block; linear ridge",
+  "readout_sensitivities": ["length and two signed counts in one standardized numeric block", "unpenalized OLS with intercept, length and two signed counts"],
+  "gemini": "Existing gemini_vector: length plus 3072-coordinate pooled vectors, unchanged",
+  "folds": "Existing 199 targets, first 100 train, 20/20/20/20/19 sequential test blocks; three inner chronological splits; original nine-alpha grid",
+  "metrics": ["MSE", "RMSE", "MAE", "OOS R2 against training-mean predictions", "paired MSE reduction"],
+  "period_summaries": ["all 99 evaluation meetings", "evaluation meetings through 2016", "evaluation meetings from 2017"],
+  "inference": "Descriptive performance primary; 9999 paired moving-block bootstrap draws, block length four, fixed saved losses only. No confirmatory significance claims.",
+  "replication_scope": "New independent whole-document reconstruction. Not author-supplied code. No exact series-equivalence claim without original meeting-level outputs. No human annotation.",
+  "fixed_corrections": [
+    "Appendix Table 8: adjust* downward not adjust*; add slow* and stop decline",
+    "Appendix prefixes rate* of, level* of, index* of retain wildcards",
+    "Protect punctuation and listed connector boundaries between phrase and direction",
+    "Preserve phrase-internal connectors, without globally exempting every token beginning with a dictionary substring from stop-word removal",
+    "Longest nonoverlapping noun and direction matches; conflicts abstain",
+    "Treat not before either a preposed or postposed direction as polarity inversion",
+    "Normalize S&P to the printed s p index representation",
+    "Use exact postposed exclusion forms listed by the appendix, not all stems",
+    "Retain the supplied explicit stop-word list as a documented departure from the unspecified historical stop_words package/version",
+    "No claim of semantic exclusion of hypothetical statements; no human labels",
+    "Aggregate whole documents rather than depend on unverified section assignments"
+  ],
+  "not_executed": ["new embeddings", "original-author series agreement", "new independent holdout", "original policy regression replication"]
+}

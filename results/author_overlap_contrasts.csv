@@ -1,0 +1,6 @@
+model,benchmark,n,mse_gain_pct,ci_low,ci_high,conditional_two_sided_p,block_length,scope
+gemini,published_human_counts,35,18.30163171888376,-10.567518773918442,55.79989905114547,0.4422,4,new comparator on already explored overlap; not independent validation
+flash_five,published_human_counts,35,22.524870564239485,-6.189254783785166,40.63641778860696,0.1346,4,new comparator on already explored overlap; not independent validation
+gemini,published_human_counts_quadratic,35,24.073170455636593,-11.80527856593709,57.95055369956462,0.3013,4,new comparator on already explored overlap; not independent validation
+gemini,published_human_counts_ols,35,22.651252954222624,-4.656803204399924,58.158973707111905,0.3354,4,new comparator on already explored overlap; not independent validation
+rules_whole_linear,published_human_counts,35,3.62814348444388,-49.603258293401055,49.71854945928386,0.8947,4,new comparator on already explored overlap; not independent validation

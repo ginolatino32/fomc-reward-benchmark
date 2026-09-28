@@ -1,0 +1,122 @@
+{
+  "Beyond_Word_Counts_LLM_Manuscript": {
+    "pages": 11,
+    "all_pages_visually_inspected": true,
+    "text_checks": [
+      {
+        "page": 1,
+        "text_characters": 1793,
+        "inside_page": true
+      },
+      {
+        "page": 2,
+        "text_characters": 4215,
+        "inside_page": true
+      },
+      {
+        "page": 3,
+        "text_characters": 3665,
+        "inside_page": true
+      },
+      {
+        "page": 4,
+        "text_characters": 3774,
+        "inside_page": true
+      },
+      {
+        "page": 5,
+        "text_characters": 3587,
+        "inside_page": true
+      },
+      {
+        "page": 6,
+        "text_characters": 3339,
+        "inside_page": true
+      },
+      {
+        "page": 7,
+        "text_characters": 2432,
+        "inside_page": true
+      },
+      {
+        "page": 8,
+        "text_characters": 1807,
+        "inside_page": true
+      },
+      {
+        "page": 9,
+        "text_characters": 3335,
+        "inside_page": true
+      },
+      {
+        "page": 10,
+        "text_characters": 3950,
+        "inside_page": true
+      },
+      {
+        "page": 11,
+        "text_characters": 3542,
+        "inside_page": true
+      }
+    ],
+    "native_math_elements": 5
+  },
+  "Online_Supplement": {
+    "pages": 8,
+    "all_pages_visually_inspected": true,
+    "text_checks": [
+      {
+        "page": 1,
+        "text_characters": 3064,
+        "inside_page": true
+      },
+      {
+        "page": 2,
+        "text_characters": 3335,
+        "inside_page": true
+      },
+      {
+        "page": 3,
+        "text_characters": 3973,
+        "inside_page": true
+      },
+      {
+        "page": 4,
+        "text_characters": 2300,
+        "inside_page": true
+      },
+      {
+        "page": 5,
+        "text_characters": 2741,
+        "inside_page": true
+      },
+      {
+        "page": 6,
+        "text_characters": 2855,
+        "inside_page": true
+      },
+      {
+        "page": 7,
+        "text_characters": 2641,
+        "inside_page": true
+      },
+      {
+        "page": 8,
+        "text_characters": 2848,
+        "inside_page": true
+      }
+    ],
+    "native_math_elements": 1
+  },
+  "headline_reproduction": {
+    "models_verified": 13,
+    "evaluation_meetings_each": 99,
+    "all_passed": true,
+    "maximum_prediction_discrepancy": 0.0,
+    "new_external_inference": false,
+    "new_observations": 0,
+    "interpretation": "Reproduction of completed experiments; no new confirmatory evidence.",
+    "python": "3.13.5",
+    "numpy": "2.3.5"
+  }
+}

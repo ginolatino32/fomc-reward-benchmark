@@ -1,0 +1,25 @@
+{
+  "passage_id": "6495f93bb38864957b997a76",
+  "response": {
+    "tone": "unclear",
+    "evidence": [
+      {
+        "quote": "sharp further declines in equity prices"
+      },
+      {
+        "quote": "debt and equity markets rebounded"
+      }
+    ],
+    "reason_code": "mixed_or_conflicting"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "0aa84564-2a31-460a-85b1-0123943c8b7b",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "4c478f1b7d54f5f27b474f83fd7269b2445bf99a1b5ce1af71ddb75c958f6c23"
+}

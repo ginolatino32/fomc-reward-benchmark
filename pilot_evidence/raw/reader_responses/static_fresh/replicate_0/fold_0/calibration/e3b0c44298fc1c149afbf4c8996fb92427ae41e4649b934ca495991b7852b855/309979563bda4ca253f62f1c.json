@@ -1,0 +1,22 @@
+{
+  "passage_id": "309979563bda4ca253f62f1c",
+  "response": {
+    "tone": "unclear",
+    "evidence": [
+      {
+        "quote": "volatile equity markets"
+      }
+    ],
+    "reason_code": "insufficient_context"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "6cf68fa0-d13a-4dad-9ef3-472f31ea0315",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "fe23d33ea3c41390965ab49bebd2e1fc237316e0ca60e087d968f9d000e273f1"
+}

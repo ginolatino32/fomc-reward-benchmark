@@ -1,0 +1,11 @@
+{
+  "models_verified": 13,
+  "evaluation_meetings_each": 99,
+  "all_passed": true,
+  "maximum_prediction_discrepancy": 0.0,
+  "new_external_inference": false,
+  "new_observations": 0,
+  "interpretation": "Reproduction of completed experiments; no new confirmatory evidence.",
+  "python": "3.13.5",
+  "numpy": "2.3.5"
+}

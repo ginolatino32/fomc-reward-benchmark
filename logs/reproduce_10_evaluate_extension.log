@@ -1,0 +1,6 @@
+price_log_excl_effective_policy rules_whole_linear done
+price_log_excl_effective_policy rules_whole_quadratic done
+price_log_excl_effective_policy rules_matched_phrase done
+price_log_excl_effective_policy flash_five done
+price_log_excl_effective_policy gemini done
+price_log_excl_effective_policy tfidf done

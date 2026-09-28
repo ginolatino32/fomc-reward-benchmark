@@ -1,0 +1,54 @@
+{
+  "negative": {
+    "axis_ticks_pdf": [
+      109.0739974975586,
+      152.968994140625,
+      196.86399841308594,
+      240.760009765625,
+      284.6390075683594
+    ],
+    "slope_pdf_points_per_return_percentage": 4.389210357666017,
+    "intercept": 240.75330505371087,
+    "tick_fit_max_residual": 0.006704711914125028,
+    "count_rounding_max_residual": 0.001558390650421515
+  },
+  "positive": {
+    "axis_ticks_pdf": [
+      356.3179931640625,
+      400.2129821777344,
+      444.1080017089844,
+      488.00299072265625,
+      531.8829956054688
+    ],
+    "slope_pdf_points_per_return_percentage": 4.3892001342773455,
+    "intercept": 487.99699401855446,
+    "tick_fit_max_residual": 0.005999755859193101,
+    "count_rounding_max_residual": 7.373786158382245e-05
+  },
+  "records": 184,
+  "max_two_panel_return_difference_pct": 0.003703747012314018,
+  "negative_counts_equal_independent_figure5": true,
+  "positive_counts_equal_independent_figure5": true,
+  "source": {
+    "file": "FedPut_onlineappendix_rfs2.pdf",
+    "sha256": "025cb24a1fe23d36b3b618e1ced859596f5951324f63d5205bf8c763a126db46",
+    "source_url": "https://drive.google.com/file/d/1YA1jNNnWax_E8-QHpZwse7wOYjadf0JN/view",
+    "figure": 2,
+    "pdf_page": 3,
+    "version": "June 2020 author-hosted appendix",
+    "method": "read named-date text operators and their immediately preceding circle vectors; calibrate tick locations; average two independently recovered panel returns",
+    "precision_note": "graph-recovered approximate percentages, not exact author raw returns; use conservative 0.01 percentage-point perturbation diagnostic"
+  },
+  "descriptive": {
+    "mean": 0.4766267701822934,
+    "sd": 5.207940795736044,
+    "min": -29.85002970012439,
+    "max": 12.589320970614764
+  }
+}
+      date  author_return_negative_panel_pct  author_return_positive_panel_pct  author_negative_scatter  author_positive_scatter  author_published_return_pct
+1994-02-04                          3.636463                          3.636429                        0                        2                     3.636446
+1994-03-22                          0.948737                          0.948696                        2                        0                     0.948716
+1994-05-17                         -5.865476                         -5.865529                        2                        0                    -5.865502
+1994-07-06                         -0.669552                         -0.669594                        1                        0                    -0.669573
+1994-08-16                          3.406809                          3.406775                        1                        2                     3.406792

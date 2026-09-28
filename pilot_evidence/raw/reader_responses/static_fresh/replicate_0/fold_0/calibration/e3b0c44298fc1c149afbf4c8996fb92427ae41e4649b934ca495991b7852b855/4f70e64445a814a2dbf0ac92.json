@@ -1,0 +1,22 @@
+{
+  "passage_id": "4f70e64445a814a2dbf0ac92",
+  "response": {
+    "tone": "unclear",
+    "evidence": [
+      {
+        "quote": "volatile equity prices"
+      }
+    ],
+    "reason_code": "insufficient_context"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "20f69001-b9f3-4601-8f11-f57a1d5a2927",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "b136643686fcd0acee314dd5dee3d39b267d292750edccd25bc99cefc85aba69"
+}

@@ -1,0 +1,29 @@
+{
+  "compact_package_reproduction": "passed",
+  "integrity_checks_passed": 33,
+  "integrity_checks_total": 33,
+  "performance_files": [
+    {
+      "file": "state_return_performance.csv",
+      "exact_match": true
+    },
+    {
+      "file": "author_original_target_performance.csv",
+      "exact_match": true
+    },
+    {
+      "file": "author_earlier_start_performance.csv",
+      "exact_match": true
+    },
+    {
+      "file": "price_log_inclusive_performance.csv",
+      "exact_match": true
+    },
+    {
+      "file": "price_log_excl_effective_policy_performance.csv",
+      "exact_match": true
+    }
+  ],
+  "new_provider_calls": 0,
+  "new_uninspected_evaluation_observations": 0
+}

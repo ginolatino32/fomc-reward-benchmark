@@ -1,0 +1,22 @@
+{
+  "passage_id": "45944ae40f8ccb4e8992e585",
+  "response": {
+    "tone": "negative",
+    "evidence": [
+      {
+        "quote": "broad equity price indexes had declined"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "feedback",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "a25fec3f-f013-4132-b4dd-4460a336aea0",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "a5b480b1b1b188a16aaba6b91914a392495bae0fa5869efe0b2732e4f43d646e"
+}

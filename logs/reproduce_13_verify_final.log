@@ -1,0 +1,172 @@
+{
+  "checks": [
+    {
+      "check": "199 labels, exact vector-date alignment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "full 3072-dimensional retained representation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "1197 unique matched passages",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "200 meetings and all five label counts sum to passage volume",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "184 unique source observations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "original totals independently match published exhibit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "all negative counts match independently dated scatter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "all positive counts match independently dated scatter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "directional counts bounded by attention",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "restricted tone counts bounded by full counts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "return panels agree within 0.01 percentage point",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source-return mean is the two-panel average",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "state_return coverage and finite predictions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "state_return metrics independently recomputed",
+      "passed": true,
+      "detail": "3.552713678800501e-15"
+    },
+    {
+      "check": "author_original_target coverage and finite predictions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "author_original_target metrics independently recomputed",
+      "passed": true,
+      "detail": "1.7763568394002505e-15"
+    },
+    {
+      "check": "author_overlap coverage and finite predictions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "author_overlap metrics independently recomputed",
+      "passed": true,
+      "detail": "1.7763568394002505e-15"
+    },
+    {
+      "check": "author_earlier_start coverage and finite predictions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "author_earlier_start metrics independently recomputed",
+      "passed": true,
+      "detail": "8.881784197001252e-16"
+    },
+    {
+      "check": "price_log_inclusive coverage and finite predictions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "price_log_inclusive metrics independently recomputed",
+      "passed": true,
+      "detail": "1.7763568394002505e-15"
+    },
+    {
+      "check": "price_log_excl_effective_policy coverage and finite predictions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "price_log_excl_effective_policy metrics independently recomputed",
+      "passed": true,
+      "detail": "3.552713678800501e-15"
+    },
+    {
+      "check": "baseline refit: gemini",
+      "passed": true,
+      "detail": "0.0"
+    },
+    {
+      "check": "baseline refit: flash_five",
+      "passed": true,
+      "detail": "0.0"
+    },
+    {
+      "check": "baseline refit: rules_whole_linear",
+      "passed": true,
+      "detail": "0.0"
+    },
+    {
+      "check": "baseline refit: tfidf",
+      "passed": true,
+      "detail": "0.0"
+    },
+    {
+      "check": "vectorized diagnostic refit matches reference",
+      "passed": true,
+      "detail": "2.7385649303823806e-10"
+    },
+    {
+      "check": "all 103 declared source-resolution variants retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "retained extension record: EXTENSION_PLAN.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "retained extension record: AUTHOR_COMPARATOR_PLAN.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "retained extension record: ADDITIONAL_SOURCE_DIAGNOSTICS.json",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "passed": 33,
+  "total": 33,
+  "scope": "computational and source-integrity checks only; not semantic validation, no independent holdout created"
+}

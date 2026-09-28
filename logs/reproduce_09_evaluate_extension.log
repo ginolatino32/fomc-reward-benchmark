@@ -1,0 +1,6 @@
+price_log_inclusive rules_whole_linear done
+price_log_inclusive rules_whole_quadratic done
+price_log_inclusive rules_matched_phrase done
+price_log_inclusive flash_five done
+price_log_inclusive gemini done
+price_log_inclusive tfidf done

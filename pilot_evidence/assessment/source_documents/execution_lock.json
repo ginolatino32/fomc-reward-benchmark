@@ -1,0 +1,51 @@
+{
+  "lock_id": "lock-20260920-antigravity-gemini-flash-3.8-actual-v1",
+  "status": "LOCKED",
+  "timestamp_utc": "2026-09-20T17:05:54.421014+00:00",
+  "provider": "Google DeepMind / Antigravity",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "runtime_environment": "Antigravity Native Agent Runtime",
+  "executable": "/Applications/Antigravity.app/Contents/Resources/bin/language_server",
+  "external_api_calls_permitted": false,
+  "spending_ceiling_usd": 0.0,
+  "generation_settings": {
+    "model": "gemini-3.8-flash",
+    "reasoning_effort": "high",
+    "temperature": "default",
+    "response_schema": "schemas/reader_response.schema.json"
+  },
+  "retry_policy": {
+    "initial_request": 1,
+    "max_format_repairs": 2
+  },
+  "prompt_hashes": {
+    "frozen_reader": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+    "blind_proposer": "ba744dc1a39194d629898d7316ff903c277c512fe2ba4e36d21cae3ffab38165",
+    "reflector": "9d3e526852592e4189b73dedb29c60e2d662c013496f30b9c74cd00b0d060c2c",
+    "proposed_protocol": "b121611c0514beaf50161c6721ab49519ceae955c3252054e8a200a3db426efb"
+  },
+  "gate_objective": {
+    "primary": "J = - validation_MSE - 0.01 * (mean_reader_tokens_per_meeting / 1000)",
+    "note_on_token_accounting": "If token telemetry is not exposed by Antigravity runtime, token penalty is locked at 0 with fixed call budgets to avoid fabrication."
+  },
+  "alpha_grid": [
+    0.0001,
+    0.001,
+    0.01,
+    0.1,
+    1,
+    10,
+    100,
+    1000,
+    10000
+  ],
+  "bootstrap_spec": {
+    "draws": 9999,
+    "primary_block_length": 4,
+    "sensitivity_block_lengths": [
+      2,
+      8
+    ],
+    "seed": 20260920
+  }
+}

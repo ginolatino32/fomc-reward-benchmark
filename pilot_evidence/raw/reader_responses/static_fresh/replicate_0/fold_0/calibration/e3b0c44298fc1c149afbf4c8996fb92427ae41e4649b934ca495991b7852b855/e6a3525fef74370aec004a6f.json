@@ -1,0 +1,25 @@
+{
+  "passage_id": "e6a3525fef74370aec004a6f",
+  "response": {
+    "tone": "negative",
+    "evidence": [
+      {
+        "quote": "stock market prices moved sharply lower"
+      },
+      {
+        "quote": "Nasdaq experiencing an especially large drop"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "6cf68fa0-d13a-4dad-9ef3-472f31ea0315",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "7664d1bfd02df8b7d71bce05f1e3c977bd6501eb4408c9332a45caf281a79e08"
+}

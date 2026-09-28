@@ -1,0 +1,5 @@
+arm,n,full_rmse,full_oos_r2,submitted_pca_rmse,submitted_pca_oos_r2,correct_nested_pca_rmse,correct_nested_pca_oos_r2,correct_nested_pca_mse_gain_vs_cvj_pct,pca_fit_scope
+legacy_gemini,99,3.5217640852470025,0.5011820659982458,3.6228767003231215,0.472127975833693,3.605293944089456,0.4772393407871867,22.681580799053012,refitted separately within every inner-training split and outer training set
+gemini2,99,3.6264691398951343,0.4710805824423495,3.667599631114443,0.4590148055987029,3.668827954876645,0.4586523798644184,19.93249398279897,refitted separately within every inner-training split and outer training set
+voyage_isolated,99,3.730509304009227,0.4402967950479339,3.7076179854080737,0.4471446721094504,3.69958533334576,0.4495376283685551,18.58438531270349,refitted separately within every inner-training split and outer training set
+voyage_context,99,4.164400464700895,0.3025284275205708,4.881640379791698,0.0415860989300982,4.9654336051381645,0.0084014179242351,-46.66144725475052,refitted separately within every inner-training split and outer training set

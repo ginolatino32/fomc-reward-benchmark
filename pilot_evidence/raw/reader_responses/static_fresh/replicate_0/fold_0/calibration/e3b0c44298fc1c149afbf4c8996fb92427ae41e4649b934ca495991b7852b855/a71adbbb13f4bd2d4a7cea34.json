@@ -1,0 +1,22 @@
+{
+  "passage_id": "a71adbbb13f4bd2d4a7cea34",
+  "response": {
+    "tone": "hypothetical",
+    "evidence": [
+      {
+        "quote": "risk of a downturn in the stock market"
+      }
+    ],
+    "reason_code": "hypothetical_only"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "20f69001-b9f3-4601-8f11-f57a1d5a2927",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "b444b9453cbef6df5c7f3c59d38a18d918f8f524a105bbabaefcd8b0e4e55ff4"
+}

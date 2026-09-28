@@ -1,0 +1,110 @@
+{
+  "data_cutoff": "2026-09-19",
+  "sources": [
+    {
+      "file": "french_daily_factors.zip",
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_Factors_daily_CSV.zip",
+      "attempt_utc": "2026-09-20T03:32:20.508719+00:00",
+      "status": "unavailable",
+      "error": "HTTPSConnectionPool(host='mba.tuck.dartmouth.edu', port=443): Max retries exceeded with url: /pages/faculty/ken.french/ftp/F-F_Research_Data_Factors_daily_CSV.zip (Caused by NameResolutionError(\"HTTPSConnection(host='mba.tuck.dartmouth.edu', port=443): Failed to resolve 'mba.tuck.dartmouth.edu' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "file": "fomcminutes20250129.html",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20250129.htm",
+      "attempt_utc": "2026-09-20T03:32:20.509231+00:00",
+      "status": "unavailable",
+      "error": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Max retries exceeded with url: /monetarypolicy/fomcminutes20250129.htm (Caused by NameResolutionError(\"HTTPSConnection(host='www.federalreserve.gov', port=443): Failed to resolve 'www.federalreserve.gov' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "file": "fomcminutes20250319.html",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20250319.htm",
+      "attempt_utc": "2026-09-20T03:32:20.511312+00:00",
+      "status": "unavailable",
+      "error": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Max retries exceeded with url: /monetarypolicy/fomcminutes20250319.htm (Caused by NameResolutionError(\"HTTPSConnection(host='www.federalreserve.gov', port=443): Failed to resolve 'www.federalreserve.gov' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "file": "fomcminutes20250507.html",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20250507.htm",
+      "attempt_utc": "2026-09-20T03:32:25.518009+00:00",
+      "status": "unavailable",
+      "error": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Max retries exceeded with url: /monetarypolicy/fomcminutes20250507.htm (Caused by NameResolutionError(\"HTTPSConnection(host='www.federalreserve.gov', port=443): Failed to resolve 'www.federalreserve.gov' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "file": "fomcminutes20250618.html",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20250618.htm",
+      "attempt_utc": "2026-09-20T03:32:25.518970+00:00",
+      "status": "unavailable",
+      "error": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Max retries exceeded with url: /monetarypolicy/fomcminutes20250618.htm (Caused by NameResolutionError(\"HTTPSConnection(host='www.federalreserve.gov', port=443): Failed to resolve 'www.federalreserve.gov' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "file": "fomcminutes20250730.html",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20250730.htm",
+      "attempt_utc": "2026-09-20T03:32:25.519120+00:00",
+      "status": "unavailable",
+      "error": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Max retries exceeded with url: /monetarypolicy/fomcminutes20250730.htm (Caused by NameResolutionError(\"HTTPSConnection(host='www.federalreserve.gov', port=443): Failed to resolve 'www.federalreserve.gov' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "file": "fomcminutes20250917.html",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20250917.htm",
+      "attempt_utc": "2026-09-20T03:32:25.519870+00:00",
+      "status": "unavailable",
+      "error": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Max retries exceeded with url: /monetarypolicy/fomcminutes20250917.htm (Caused by NameResolutionError(\"HTTPSConnection(host='www.federalreserve.gov', port=443): Failed to resolve 'www.federalreserve.gov' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "file": "fomcminutes20251029.html",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20251029.htm",
+      "attempt_utc": "2026-09-20T03:32:30.525991+00:00",
+      "status": "unavailable",
+      "error": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Max retries exceeded with url: /monetarypolicy/fomcminutes20251029.htm (Caused by NameResolutionError(\"HTTPSConnection(host='www.federalreserve.gov', port=443): Failed to resolve 'www.federalreserve.gov' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "file": "fomcminutes20251210.html",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20251210.htm",
+      "attempt_utc": "2026-09-20T03:32:30.526721+00:00",
+      "status": "unavailable",
+      "error": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Max retries exceeded with url: /monetarypolicy/fomcminutes20251210.htm (Caused by NameResolutionError(\"HTTPSConnection(host='www.federalreserve.gov', port=443): Failed to resolve 'www.federalreserve.gov' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "file": "fomcminutes20260128.html",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260128.htm",
+      "attempt_utc": "2026-09-20T03:32:30.527470+00:00",
+      "status": "unavailable",
+      "error": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Max retries exceeded with url: /monetarypolicy/fomcminutes20260128.htm (Caused by NameResolutionError(\"HTTPSConnection(host='www.federalreserve.gov', port=443): Failed to resolve 'www.federalreserve.gov' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "file": "fomcminutes20260318.html",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260318.htm",
+      "attempt_utc": "2026-09-20T03:32:35.532904+00:00",
+      "status": "unavailable",
+      "error": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Max retries exceeded with url: /monetarypolicy/fomcminutes20260318.htm (Caused by NameResolutionError(\"HTTPSConnection(host='www.federalreserve.gov', port=443): Failed to resolve 'www.federalreserve.gov' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "file": "fomcminutes20260429.html",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260429.htm",
+      "attempt_utc": "2026-09-20T03:32:35.533704+00:00",
+      "status": "unavailable",
+      "error": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Max retries exceeded with url: /monetarypolicy/fomcminutes20260429.htm (Caused by NameResolutionError(\"HTTPSConnection(host='www.federalreserve.gov', port=443): Failed to resolve 'www.federalreserve.gov' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "file": "fomcminutes20260617.html",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260617.htm",
+      "attempt_utc": "2026-09-20T03:32:35.534779+00:00",
+      "status": "unavailable",
+      "error": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Max retries exceeded with url: /monetarypolicy/fomcminutes20260617.htm (Caused by NameResolutionError(\"HTTPSConnection(host='www.federalreserve.gov', port=443): Failed to resolve 'www.federalreserve.gov' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "file": "fomcminutes20260729.html",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm",
+      "attempt_utc": "2026-09-20T03:32:40.539165+00:00",
+      "status": "unavailable",
+      "error": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Max retries exceeded with url: /monetarypolicy/fomcminutes20260729.htm (Caused by NameResolutionError(\"HTTPSConnection(host='www.federalreserve.gov', port=443): Failed to resolve 'www.federalreserve.gov' ([Errno -3] Temporary failure in name resolution)\"))"
+    }
+  ],
+  "author_appendix": {
+    "status": "acquired_through_connected_Google_Drive",
+    "file": "external/FedPut_onlineappendix_rfs2.pdf",
+    "url": "https://drive.google.com/file/d/1YA1jNNnWax_E8-QHpZwse7wOYjadf0JN/view",
+    "sha256": "025cb24a1fe23d36b3b618e1ced859596f5951324f63d5205bf8c763a126db46"
+  },
+  "model_inference": "not run; no authenticated Gemini/Flash generation capability in the available environment; no model was silently substituted"
+}

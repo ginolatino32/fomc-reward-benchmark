@@ -1,0 +1,16 @@
+model,check_name,expected_value,observed_value,absolute_difference,absolute_tolerance,passed,notes
+gemini_vector,rmse,3.521764085246992,3.521764085247028,3.6415315207705135e-14,1e-06,True,Canonical offline reproduction gate
+gemini_vector,oos_r2,0.5011820659982487,0.5011820659982384,1.021405182655144e-14,1e-06,True,Canonical offline reproduction gate
+gemini_vector,n_eval,99.0,99.0,0.0,0.0,True,Canonical offline reproduction gate
+audited_reconstruction_split,rmse,4.100144814430607,4.100144814406846,2.376054908381775e-11,1e-06,True,Canonical offline reproduction gate
+audited_reconstruction_split,oos_r2,0.3238859968704453,0.3238859968782814,7.836120641258049e-12,1e-06,True,Canonical offline reproduction gate
+audited_reconstruction_split,n_eval,99.0,99.0,0.0,0.0,True,Canonical offline reproduction gate
+audited_reconstruction_joint,rmse,4.073391154979166,4.073391154964864,1.4302337092431117e-11,1e-06,True,Canonical offline reproduction gate
+audited_reconstruction_joint,oos_r2,0.3326805689277654,0.3326805689324512,4.685807297732936e-12,1e-06,True,Canonical offline reproduction gate
+audited_reconstruction_joint,n_eval,99.0,99.0,0.0,0.0,True,Canonical offline reproduction gate
+audited_reconstruction_ols,rmse,4.110837854002683,4.110837854002683,0.0,1e-06,True,Canonical offline reproduction gate
+audited_reconstruction_ols,oos_r2,0.3203548331953255,0.3203548331953255,0.0,1e-06,True,Canonical offline reproduction gate
+audited_reconstruction_ols,n_eval,99.0,99.0,0.0,0.0,True,Canonical offline reproduction gate
+tfidf_bigram_only,rmse,4.612636597592418,4.612636597592425,6.217248937900877e-15,1e-06,True,Canonical offline reproduction gate
+tfidf_bigram_only,oos_r2,0.1443029796372323,0.14430297963723,2.3037127760972e-15,1e-06,True,Canonical offline reproduction gate
+tfidf_bigram_only,n_eval,99.0,99.0,0.0,0.0,True,Canonical offline reproduction gate

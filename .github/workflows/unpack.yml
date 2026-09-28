@@ -1,0 +1,31 @@
+name: unpack-release
+on:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unpack, verify and publish the release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ ! -f release.tar.xz.part-00 ] || [ ! -f release.tar.xz.part-01 ]; then echo "Release parts not present; nothing to do."; exit 0; fi
+          cat release.tar.xz.part-00 release.tar.xz.part-01 > /tmp/r.tar.xz
+          echo "93e1014cef41623f0e408bc46f7d0cb5d2805063c70f7b911d9f2fc5098e14a9  /tmp/r.tar.xz" | sha256sum -c -
+          mkdir -p /tmp/x
+          tar -xJf /tmp/r.tar.xz -C /tmp/x
+          mkdir -p /tmp/x/fomc-reward-benchmark/.github/workflows
+          cp .github/workflows/unpack.yml /tmp/x/fomc-reward-benchmark/.github/workflows/unpack.yml
+          cd /tmp/x/fomc-reward-benchmark
+          python3 scripts/verify_release.py
+          git init -q -b main
+          git config user.name "Manuel Bossi"
+          git config user.email "mbossi@stevens.edu"
+          git add -A
+          git commit -q -m "Initial public release of the FOMC reward benchmark"
+          git push -f "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" main

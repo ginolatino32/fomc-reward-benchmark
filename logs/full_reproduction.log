@@ -1,0 +1,15 @@
+[1/14] recover_published_counts.py
+[2/14] recover_published_returns.py
+[3/14] recover_published_attention.py
+[4/14] prepare_features.py
+[5/14] alternative_targets.py
+[6/14] evaluate_extension.py
+[7/14] summarize_extension.py
+[8/14] evaluate_author_counts.py
+[9/14] evaluate_author_counts.py --target author_published_return_pct
+[10/14] evaluate_extension.py --target price_log_inclusive --core-only
+[11/14] evaluate_extension.py --target price_log_excl_effective_policy --core-only
+[12/14] source_diagnostics.py
+[13/14] final_tables.py
+[14/14] verify_final.py
+Reproduction complete. See results/final_verification.json and manuscript/tables/.

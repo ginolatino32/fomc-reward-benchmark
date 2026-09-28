@@ -1,0 +1,22 @@
+{
+  "analysis_type": "post-discovery, prespecified implementation for this finite extension; NOT retrospective preregistration",
+  "created_utc": "2026-09-20T02:51:25.957800+00:00",
+  "primary_reference": "existing Gemini 001 plus length, audited reconstruction split-block ridge",
+  "matched_input_measures": [
+    "within-passage phrase-hit counts",
+    "one signed vote per passage; mixed/unclassified separate",
+    "two Flash direction counts and common passage-volume control",
+    "embedding and same passage-volume control"
+  ],
+  "nonlinear_count": "negative, positive, negative squared, positive squared, negative*positive; fixed quadratic with ridge tuning in same training folds",
+  "outcomes": [
+    "unchanged original price-return proxy",
+    "French daily arithmetic sum of excess returns with identical calendar endpoints",
+    "French compounded market return minus compounded RF with identical endpoints",
+    "French CVJ-style sum using scheduled cycle endpoints and excluding intermeeting moves except 2001-09-17; alignment departures disclosed"
+  ],
+  "new_validation": "Seek public 2025\u20132026 minutes and model access; locked trained original pipeline; no substitutions for missing Gemini/Flash inference.",
+  "claim_scope": "comparative automated measurement against reconstruction; original paper baseline human-coded minutes not presented as simple word counts",
+  "report": "all declared additional specifications, complete original results retained, no selective meeting removal",
+  "seed": 20260919
+}

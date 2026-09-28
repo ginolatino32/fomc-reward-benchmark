@@ -1,0 +1,22 @@
+{
+  "passage_id": "fdf18d4dfaa58511ede42e0b",
+  "response": {
+    "tone": "negative",
+    "evidence": [
+      {
+        "quote": "Equity market indexes fell sharply in the advanced economies as well as in emerging market economies"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "feedback",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "a25fec3f-f013-4132-b4dd-4460a336aea0",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "3aa1e8e892ea6e66ea56510e7263451bf0f7b50171df4af72c32d29031442c74"
+}

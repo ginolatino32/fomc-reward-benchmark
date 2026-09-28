@@ -1,0 +1,25 @@
+{
+  "passage_id": "281a99bc1413207af9b06c0a",
+  "response": {
+    "tone": "unclear",
+    "evidence": [
+      {
+        "quote": "sharp declines in stock market wealth"
+      },
+      {
+        "quote": "equity prices having rebounded from their post-attack declines"
+      }
+    ],
+    "reason_code": "mixed_or_conflicting"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "20f69001-b9f3-4601-8f11-f57a1d5a2927",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "94d3cc587da5a976bb910b43e573d1378060d13b3c106e1b6deed699e04622ae"
+}

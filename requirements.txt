@@ -1,0 +1,11 @@
+# Installed versions used for the completed run. Python 3.13.5.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+scikit-learn==1.8.0
+statsmodels==0.14.6
+pymupdf==1.26.7
+python-docx==1.2.0
+lxml==6.1.1
+requests==2.32.5
+# pandoc is separately required only to rebuild Word documents.

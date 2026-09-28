@@ -1,0 +1,3 @@
+tone,n,original_mean,reconstruction_mean,correlation,mean_absolute_count_difference,exact_meeting_count_agreements,scope
+negative,135,2.111111111111111,1.7259259259259259,0.7987409739969455,1.0814814814814815,55,Different coding and document scope; not a classification-accuracy estimate.
+positive,135,2.2888888888888888,1.7851851851851852,0.772496132062967,1.0518518518518518,48,Different coding and document scope; not a classification-accuracy estimate.

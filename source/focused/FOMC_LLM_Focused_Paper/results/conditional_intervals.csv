@@ -1,0 +1,9 @@
+model,benchmark,gain_pct,conditional_lower_pct,conditional_upper_pct,draws,block_length,scope
+gemini,cvj,26.222806849745783,7.48676870652188,39.27612879267037,9999,4,conditional saved-loss synthesis; no selection adjustment
+gemini,tfidf,41.70624390040777,31.04035038219256,50.22755554566407,9999,4,conditional saved-loss synthesis; no selection adjustment
+gemini,mention_counts,50.127508740150375,41.2055253156951,59.79938758468336,9999,4,conditional saved-loss synthesis; no selection adjustment
+gemini,signed_counts,55.12643116629712,46.73896832484448,65.49355718258305,9999,4,conditional saved-loss synthesis; no selection adjustment
+flash,cvj,24.60063382510963,8.351856736321412,37.0472102211688,9999,4,conditional saved-loss synthesis; no selection adjustment
+flash,tfidf,40.424512316273194,23.910994182927215,54.72339710010361,9999,4,conditional saved-loss synthesis; no selection adjustment
+flash,mention_counts,49.0309393731325,36.912592310608275,62.825875537532106,9999,4,conditional saved-loss synthesis; no selection adjustment
+flash,signed_counts,54.13977540219213,41.587567264852964,68.63440981708533,9999,4,conditional saved-loss synthesis; no selection adjustment

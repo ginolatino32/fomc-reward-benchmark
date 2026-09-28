@@ -1,0 +1,25 @@
+{
+  "passage_id": "054655e5abc9a376a6afd557",
+  "response": {
+    "tone": "positive",
+    "evidence": [
+      {
+        "quote": "Broad stock price indexes rose significantly"
+      },
+      {
+        "quote": "Financial stocks outperformed broader markets"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "feedback",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "06ecf693-707e-4f1e-9280-e698b51e3b00",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "6b2c7765b1414685bf947f0025a2348ad743eec10ce19cb5da6b9e8340955a0c"
+}

@@ -1,0 +1,7 @@
+{
+  "created_utc": "2026-09-20T03:25:47.884620+00:00",
+  "scope": "Post-discovery diagnostics; source-overlap results with 100 initial meetings already observed. No preferred result is selected.",
+  "graph_precision": "Refit tuning for two individual source panels plus 100 fixed uniform +/-0.01 percentage-point perturbations of all recovered returns; retain original mean as reference.",
+  "earlier_start": "One fixed initial training length of60 and blocks of20 to use more of original source overlap. This is a sensitivity, not a new holdout. Original100 initialization remains primary.",
+  "original_regression": "Sanity-check published count-on-return coefficients with two lags; unavailable pre-1994 lags reduce N to182."
+}

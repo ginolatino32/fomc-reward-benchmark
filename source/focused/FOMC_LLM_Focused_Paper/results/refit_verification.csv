@@ -1,0 +1,14 @@
+model,n,max_absolute_prediction_difference,passed
+gemini,99,0.0,True
+flash,99,0.0,True
+cvj,99,0.0,True
+cvj_joint,99,0.0,True
+cvj_ols,99,0.0,True
+tfidf,99,0.0,True
+gemini_refreshed,99,0.0,True
+gemini_masked,99,0.0,True
+flash_masked,99,0.0,True
+tfidf_masked,99,0.0,True
+gemini_pca3,99,0.0,True
+length_only,99,0.0,True
+signed_counts,99,0.0,True

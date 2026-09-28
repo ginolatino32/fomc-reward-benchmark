@@ -1,0 +1,22 @@
+{
+  "passage_id": "ac0c1cb20d003dc1e0cbc4d3",
+  "response": {
+    "tone": "unclear",
+    "evidence": [
+      {
+        "quote": "Movements in stock prices were mixed in the advanced foreign economies, although equity prices generally rose in emerging market economies."
+      }
+    ],
+    "reason_code": "mixed_or_conflicting"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "feedback",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "a25fec3f-f013-4132-b4dd-4460a336aea0",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "9bd1f20281ef9537578e4172f5e3381f95aefbfaab0abaa1449e783ebf1f0e1b"
+}

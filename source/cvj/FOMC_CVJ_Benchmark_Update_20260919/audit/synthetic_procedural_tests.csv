@@ -1,0 +1,25 @@
+test,input,expected,uploaded,audited,uploaded_pass,audited_pass
+positive,Equity prices rose.,"[[""equity price*"", ""positive""]]","[[""equity price*"", ""positive""]]","[[""equity price*"", ""positive""]]",True,True
+negative,Equity prices fell.,"[[""equity price*"", ""negative""]]","[[""equity price*"", ""negative""]]","[[""equity price*"", ""negative""]]",True,True
+stopwords,Equity prices have been rising.,"[[""equity price*"", ""positive""]]","[[""equity price*"", ""positive""]]","[[""equity price*"", ""positive""]]",True,True
+descriptive,Equity prices rapidly rose.,"[[""equity price*"", ""positive""]]","[[""equity price*"", ""positive""]]","[[""equity price*"", ""positive""]]",True,True
+negated_preposed,Not weak equity prices supported spending.,"[[""equity price*"", ""positive""]]","[[""equity price*"", ""negative""]]","[[""equity price*"", ""positive""]]",False,True
+negated_preposed_pos,Not rising equity prices supported spending.,"[[""equity price*"", ""negative""]]","[[""equity price*"", ""positive""]]","[[""equity price*"", ""negative""]]",False,True
+negated_postposed,Equity prices were not encouraging.,"[[""equity price*"", ""negative""]]","[[""equity price*"", ""negative""]]","[[""equity price*"", ""negative""]]",True,True
+comma_boundary,"Equity prices, falling yields supported spending.",[],"[[""equity price*"", ""negative""]]",[],False,True
+semicolon_boundary,Equity prices; fell bond yields.,[],"[[""equity price*"", ""negative""]]",[],False,True
+and_boundary,Equity prices and falling yields supported spending.,[],[],[],True,True
+as_boundary,Equity prices as falling yields supported spending.,[],"[[""equity price*"", ""negative""]]",[],False,True
+preposition_boundary,The equity prices of declining companies mattered.,[],[],[],True,True
+combined_noun,Equity and home prices rose.,"[[""equity and home price*"", ""positive""]]","[[""equity and home price*"", ""positive""]]","[[""equity and home price*"", ""positive""]]",True,True
+prefix_wildcard,The levels of equity prices rose.,"[[""level* of equity price*"", ""positive""]]","[[""equity price*"", ""positive""]]","[[""level* of equity price*"", ""positive""]]",False,True
+adjust_up,Equity prices adjusted upward.,"[[""equity price*"", ""positive""]]",[],"[[""equity price*"", ""positive""]]",False,True
+adjust_down,Equity prices adjusted downward.,"[[""equity price*"", ""negative""]]","[[""equity price*"", ""negative""]]","[[""equity price*"", ""negative""]]",True,True
+slow,Equity prices slow.,"[[""equity price*"", ""negative""]]",[],"[[""equity price*"", ""negative""]]",False,True
+stop_decline,Equity prices stop decline.,"[[""equity price*"", ""positive""]]",[],"[[""equity price*"", ""positive""]]",False,True
+index_abbreviation,The S&P 500 index rose.,"[[""s p 500 index"", ""positive""]]",[],"[[""s p 500 index"", ""positive""]]",False,True
+postposed_causative,Equity prices reduced household wealth.,"[[""household wealth"", ""negative""]]","[[""household wealth"", ""negative""]]","[[""household wealth"", ""negative""]]",True,True
+longest_noun,Stock market prices fell.,"[[""stock market price*"", ""negative""]]","[[""stock market price*"", ""negative""]]","[[""stock market price*"", ""negative""]]",True,True
+conflict_abstain,Falling equity prices rose.,[],[],[],True,True
+neutral,Equity prices were unchanged.,[],[],[],True,True
+word_boundaries,Equity pricing adjusted suddenly.,[],[],[],True,True

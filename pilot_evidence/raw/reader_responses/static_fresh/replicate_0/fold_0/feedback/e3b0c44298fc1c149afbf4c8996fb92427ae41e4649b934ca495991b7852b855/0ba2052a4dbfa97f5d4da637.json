@@ -1,0 +1,25 @@
+{
+  "passage_id": "0ba2052a4dbfa97f5d4da637",
+  "response": {
+    "tone": "unclear",
+    "evidence": [
+      {
+        "quote": "The spread between an estimate of the expected real equity return over the next 10 years for S&P 500 firms and an estimate of the real 10-year Treasury yield--a rough gauge of the equity risk premium--remained high by historical standards."
+      },
+      {
+        "quote": "option-implied volatility on the S&P 500 index declined modestly, on balance, over the intermeeting period, but was still at a level comparable with that of previous recessions."
+      }
+    ],
+    "reason_code": "level_without_direction"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "feedback",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "0640dc6c-d7ef-44f4-9f66-51fd59692a2a",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "9f13fe690fa40f75e598509b1d5e7e2547c2e9c1ef1820450638bee4723f75c2"
+}

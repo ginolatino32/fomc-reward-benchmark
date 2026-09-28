@@ -1,0 +1,86 @@
+{
+  "purpose": "Focused synthesis of existing completed experiments; no new observations or model calls.",
+  "archives": {
+    "FOMC_New_Model_Extension_Final_20260920.zip": "8391b9fdf02e77cc07d954746f728ed5997134904a3e2bd51d1c9e26042cdfde",
+    "FOMC_New_Model_Independent_Review.zip": "76c3dd45e552767f744bf0be5f3e2789ceaed99ac7f4bbeafa95aa43f350221f",
+    "FOMC_CVJ_Benchmark_and_Updated_Manuscript.zip": "7b627e64ebde27a130ac46182497d8fee44555eaeb7aec4ebf36d4132e028ea5"
+  },
+  "main_design": "One lead embedding and one complementary LLM tone representation, on all 99 existing evaluation meetings.",
+  "selection_status": "Exploratory retrospective synthesis after inspecting completed results.",
+  "financial_outcome": "Already-realized intermeeting excess price-return proxy, not total return and not future return.",
+  "representation_provenance": "Model names from supplied manifests and responses; offline checks do not authenticate vendor inference.",
+  "pooling": [
+    {
+      "arm": "gemini001_refresh",
+      "variant": "original",
+      "shape": [
+        1197,
+        3072
+      ],
+      "max_float32_pool_rounding": 7.4486690149200285e-09
+    },
+    {
+      "arm": "gemini001_refresh",
+      "variant": "numbers_masked",
+      "shape": [
+        1197,
+        3072
+      ],
+      "max_float32_pool_rounding": 7.448216682304221e-09
+    },
+    {
+      "arm": "gemini2",
+      "variant": "original",
+      "shape": [
+        1197,
+        3072
+      ],
+      "max_float32_pool_rounding": 7.449362654510239e-09
+    },
+    {
+      "arm": "gemini2",
+      "variant": "numbers_masked",
+      "shape": [
+        1197,
+        3072
+      ],
+      "max_float32_pool_rounding": 7.450299044364783e-09
+    },
+    {
+      "arm": "voyage_isolated",
+      "variant": "original",
+      "shape": [
+        1197,
+        2048
+      ],
+      "max_float32_pool_rounding": 3.6854779922324e-09
+    },
+    {
+      "arm": "voyage_isolated",
+      "variant": "numbers_masked",
+      "shape": [
+        1197,
+        2048
+      ],
+      "max_float32_pool_rounding": 3.691632916025256e-09
+    },
+    {
+      "arm": "voyage_context",
+      "variant": "original",
+      "shape": [
+        1197,
+        2048
+      ],
+      "max_float32_pool_rounding": 3.72196588827034e-09
+    },
+    {
+      "arm": "voyage_context",
+      "variant": "numbers_masked",
+      "shape": [
+        1197,
+        2048
+      ],
+      "max_float32_pool_rounding": 3.72011932370242e-09
+    }
+  ]
+}

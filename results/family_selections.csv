@@ -1,0 +1,11 @@
+family,fold,chosen_model,validation_mse,alpha,scope
+lexical_family,0,rules_whole_linear,26.3513405587704,0.0001,training-only selection; family defined after historical research
+lexical_family,1,rules_whole_linear,21.589103582347004,1.0,training-only selection; family defined after historical research
+lexical_family,2,rules_whole_linear,23.356743372195314,1.0,training-only selection; family defined after historical research
+lexical_family,3,rules_whole_linear,20.265196589369506,0.01,training-only selection; family defined after historical research
+lexical_family,4,rules_whole_linear,23.82699410490419,0.0001,training-only selection; family defined after historical research
+llm_family,0,flash_five,18.2151846597674,1.0,training-only selection; family defined after historical research
+llm_family,1,flash_five,15.33036845460457,1.0,training-only selection; family defined after historical research
+llm_family,2,flash_five,16.51364083171321,1.0,training-only selection; family defined after historical research
+llm_family,3,flash_five,15.056149238056545,1.0,training-only selection; family defined after historical research
+llm_family,4,flash_five,17.26922700598344,1.0,training-only selection; family defined after historical research

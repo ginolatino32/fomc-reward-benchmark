@@ -1,0 +1,30 @@
+{
+  "main_paper_reproduction_rmse": {
+    "rules": 4.1,
+    "embedding": 3.522
+  },
+  "n_policy_obs": 198,
+  "policy_first": "2000-03-21",
+  "policy_last": "2024-11-07",
+  "test_sizes": [
+    20,
+    20,
+    20,
+    20,
+    18
+  ],
+  "S3_test_sizes": [
+    20,
+    20,
+    20,
+    15
+  ],
+  "target_descriptives": {
+    "y_cycle_mean": -0.8207070707070707,
+    "y_cycle_sd": 28.556461580081496,
+    "share_nonzero": 0.3181818181818182,
+    "eval_share_nonzero": 0.2755102040816326,
+    "eval_n_cuts": 7,
+    "eval_n_hikes": 20
+  }
+}

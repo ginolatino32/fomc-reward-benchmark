@@ -1,0 +1,25 @@
+{
+  "passage_id": "0a65ac3033f629737ba47324",
+  "response": {
+    "tone": "positive",
+    "evidence": [
+      {
+        "quote": "rising prices in equity markets"
+      },
+      {
+        "quote": "gains in equity prices"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "982e70e5-517a-42b3-a6a7-05cd5619342a",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "2bccfd150dac6ebf5a8558eafc8a03cef89adfa3642a0fd1a86ac16123c9186a"
+}

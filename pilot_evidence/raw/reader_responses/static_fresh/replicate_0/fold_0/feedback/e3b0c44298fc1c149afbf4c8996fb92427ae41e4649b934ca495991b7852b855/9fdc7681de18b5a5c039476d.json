@@ -1,0 +1,28 @@
+{
+  "passage_id": "9fdc7681de18b5a5c039476d",
+  "response": {
+    "tone": "positive",
+    "evidence": [
+      {
+        "quote": "Broad stock price indexes in major advanced foreign economies rose, although generally somewhat less than those in the United States."
+      },
+      {
+        "quote": "Stock price indexes in major emerging markets increased as well"
+      },
+      {
+        "quote": "Chinese stock prices also increased strongly."
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "feedback",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "0640dc6c-d7ef-44f4-9f66-51fd59692a2a",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "26becc1e704e9ccdcb83e00f963499435b9f650451cd7833f16ff5d189d91e1e"
+}

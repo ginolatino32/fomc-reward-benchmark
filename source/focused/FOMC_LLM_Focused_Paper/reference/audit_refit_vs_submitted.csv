@@ -1,0 +1,21 @@
+arm,variant,mode,n,max_abs_prediction_difference,alpha_differences,interpretation
+audited_counts,original,joint,99,2.018144540372191e-09,0,independent original-specification refit
+audited_counts,original,ols,99,5.329070518200751e-15,0,independent original-specification refit
+audited_counts,original,split,99,1.1946060807233039e-09,0,independent original-specification refit
+flash,numbers_masked,full,99,4.796163466380676e-13,0,independent original-specification refit
+flash,original,full,99,1.7044698985557716e-13,0,independent original-specification refit
+gemini001_refresh,numbers_masked,full,99,1.354250045437766e-12,0,independent original-specification refit
+gemini001_refresh,original,full,99,1.7861268020169518e-12,0,independent original-specification refit
+gemini2,numbers_masked,full,99,1.2820855488371308e-12,0,independent original-specification refit
+gemini2,original,full,99,1.3864465131518955e-12,0,independent original-specification refit
+gemini2,original,pca3_correct_nested,99,0.3268311066307241,60,PCA corrected inside inner folds
+legacy_gemini,original,full,99,1.538547067525542e-12,0,independent original-specification refit
+legacy_gemini,original,pca3_correct_nested,99,0.3882703317594789,80,PCA corrected inside inner folds
+tfidf,numbers_masked,full,99,4.858335955759685e-13,0,independent original-specification refit
+tfidf,original,full,99,4.716227408607665e-13,0,independent original-specification refit
+voyage_context,numbers_masked,full,99,4.164446565368962e-13,0,independent original-specification refit
+voyage_context,original,full,99,7.620570841027074e-13,0,independent original-specification refit
+voyage_context,original,pca3_correct_nested,99,2.3427553294716983,79,PCA corrected inside inner folds
+voyage_isolated,numbers_masked,full,99,4.738431869100168e-13,0,independent original-specification refit
+voyage_isolated,original,full,99,6.563638521583925e-13,0,independent original-specification refit
+voyage_isolated,original,pca3_correct_nested,99,0.35328523641250253,80,PCA corrected inside inner folds

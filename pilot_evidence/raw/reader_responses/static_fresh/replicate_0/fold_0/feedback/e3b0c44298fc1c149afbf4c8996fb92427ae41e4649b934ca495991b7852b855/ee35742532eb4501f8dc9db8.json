@@ -1,0 +1,22 @@
+{
+  "passage_id": "ee35742532eb4501f8dc9db8",
+  "response": {
+    "tone": "negative",
+    "evidence": [
+      {
+        "quote": "Broad stock price indexes fell further over the intermeeting period"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "feedback",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "a25fec3f-f013-4132-b4dd-4460a336aea0",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "108bc7dcd780d1a4d51e45617e157c7107e79e5188a7424b05cb1f792c15b454"
+}

@@ -1,0 +1,12 @@
+[1/11] prepare_features.py
+[2/11] alternative_targets.py
+[3/11] evaluate_extension.py
+[4/11] summarize_extension.py
+[5/11] evaluate_author_counts.py
+[6/11] evaluate_author_counts.py --target author_published_return_pct
+[7/11] evaluate_extension.py --target price_log_inclusive --core-only
+[8/11] evaluate_extension.py --target price_log_excl_effective_policy --core-only
+[9/11] source_diagnostics.py
+[10/11] final_tables.py
+[11/11] verify_final.py
+Reproduction complete. See results/final_verification.json and manuscript/tables/.

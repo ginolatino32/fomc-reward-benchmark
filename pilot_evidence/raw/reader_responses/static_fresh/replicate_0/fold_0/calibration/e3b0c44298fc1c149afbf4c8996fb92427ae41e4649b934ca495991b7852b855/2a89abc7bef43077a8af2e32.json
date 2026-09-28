@@ -1,0 +1,22 @@
+{
+  "passage_id": "2a89abc7bef43077a8af2e32",
+  "response": {
+    "tone": "positive",
+    "evidence": [
+      {
+        "quote": "major indexes of equity prices moved higher over the intermeeting period"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "20f69001-b9f3-4601-8f11-f57a1d5a2927",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "72ecb46f102999f4553481b304df698b13b9ddf42c7a65cdbfe886e7ab6196e9"
+}

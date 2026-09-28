@@ -1,0 +1,9 @@
+model,max_abs_prediction_difference
+rules_whole_linear,1.2719769681979187e-10
+rules_whole_quadratic,3.9968028886505635e-14
+flash_five,9.414691248821327e-14
+gemini,3.4638958368304884e-14
+published_attention_counts,5.551115123125783e-17
+published_human_counts,2.6645352591003757e-14
+published_human_counts_quadratic,2.2648549702353193e-13
+published_human_counts_excl_financial,2.738564930382381e-10

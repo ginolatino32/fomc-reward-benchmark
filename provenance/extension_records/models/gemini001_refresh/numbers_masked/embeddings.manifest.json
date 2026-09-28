@@ -1,0 +1,10 @@
+{
+  "config": {
+    "task_type": "SEMANTIC_SIMILARITY",
+    "output_dimensionality": 3072,
+    "provider": "google",
+    "model": "gemini-embedding-001"
+  },
+  "input_tokens_estimate": 115222,
+  "mean_request_latency_seconds": 0.4192947864532471
+}

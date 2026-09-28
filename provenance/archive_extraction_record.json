@@ -1,0 +1,121 @@
+[
+  {
+    "local_file": "provenance/source_records/minutes_download_log.txt",
+    "source_archive": "/mnt/data/fomc_equity_market_attention_from_scratch_20260916.zip",
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/download_log.txt",
+    "sha256": "cff3cf6494ccc845b1929928dc499244433f04a2733a10c0d612f46941590134",
+    "operation": "copied from user-provided archive; not a new download"
+  },
+  {
+    "local_file": "provenance/source_records/download_official_fomc_minutes.py",
+    "source_archive": "/mnt/data/fomc_equity_market_attention_from_scratch_20260916.zip",
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/scripts/download_official_fomc_minutes.py",
+    "sha256": "bb6efaabb2276b444a7dd8863a77d4155585d0c690cceec892a441b723fd94c7",
+    "operation": "copied from user-provided archive; not a new download"
+  },
+  {
+    "local_file": "provenance/source_records/daily_market_return_validation.py",
+    "source_archive": "/mnt/data/fomc_equity_market_attention_from_scratch_20260916.zip",
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/scripts/daily_market_return_validation.py",
+    "sha256": "b850639baa554a108b8647e5c62cb4b1cfa40c2e5c277e36ab08672024e96a14",
+    "operation": "copied from user-provided archive; not a new download"
+  },
+  {
+    "local_file": "provenance/source_records/download_fred_ffr_targets.py",
+    "source_archive": "/mnt/data/fomc_equity_market_attention_from_scratch_20260916.zip",
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/scripts/download_fred_ffr_targets.py",
+    "sha256": "c83ab588667a78618a54e8192349fe454825e03fc508f9fd13cab027543b87ab",
+    "operation": "copied from user-provided archive; not a new download"
+  },
+  {
+    "local_file": "provenance/source_records/fred_target_metadata.json",
+    "source_archive": "/mnt/data/fomc_equity_market_attention_from_scratch_20260916.zip",
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fred_ffr_target_range/fred_federal_funds_target_range_metadata.json",
+    "sha256": "03e101574b7c38a6fb8e4dc5f408f01a5dd645bc37d2c3bf85f0bba0e9966266",
+    "operation": "copied from user-provided archive; not a new download"
+  },
+  {
+    "local_file": "provenance/source_records/legacy_gemini_manifest.json",
+    "source_archive": "/mnt/data/fomc_equity_market_attention_from_scratch_20260916.zip",
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/SUBMISSION/week3/gemini_embeddings/gemini_embedding_001_minutes_only_baseline_manifest.json",
+    "sha256": "8793f42059750b0199e14d6613bffa6a3d8a1b77cc6004fd7bfdbd873341faaa",
+    "operation": "copied from user-provided archive; not a new download"
+  },
+  {
+    "local_file": "provenance/minutes_source_register.csv",
+    "source_archive": "/mnt/data/fomc_equity_market_attention_from_scratch_20260916.zip",
+    "archive_member": "fomc_equity_market_attention_from_scratch_20260916/project/fed_put_ai_nlp_outputs/data_raw/fomc_minutes_official_2000_2024/official_fomc_minutes_manifest.csv",
+    "original_member_sha256": "0c37a9f7fd251c0e89a4f22ed076b901b0e2765d26bffeee4730f3a6883064e5",
+    "operation": "normalize workstation paths; add verified byte hashes and portable paths; original fields unchanged"
+  },
+  {
+    "local_file": "provenance/extension_records/models/gemini001_refresh/original/embeddings.manifest.json",
+    "source_archive": "/mnt/data/FOMC_New_Model_Extension_Final_20260920.zip",
+    "archive_member": "private/tmp/fomc_new_model_package_final_20260920/models/gemini001_refresh/original/embeddings.manifest.json",
+    "sha256": "992abc71d87f666472f02fbf803f2f6b9221f27d693fb51f79750515b81db8e4",
+    "operation": "copied existing execution record; no provider invocation"
+  },
+  {
+    "local_file": "provenance/extension_records/models/gemini001_refresh/numbers_masked/embeddings.manifest.json",
+    "source_archive": "/mnt/data/FOMC_New_Model_Extension_Final_20260920.zip",
+    "archive_member": "private/tmp/fomc_new_model_package_final_20260920/models/gemini001_refresh/numbers_masked/embeddings.manifest.json",
+    "sha256": "f64df765938f6178103c8036af8ba74d52cb44a19dc1a9f1cbf39a588f8aaed8",
+    "operation": "copied existing execution record; no provider invocation"
+  },
+  {
+    "local_file": "provenance/extension_records/inputs/handoff/prompts/flash_classification_prompt.txt",
+    "source_archive": "/mnt/data/FOMC_New_Model_Extension_Final_20260920.zip",
+    "archive_member": "private/tmp/fomc_new_model_package_final_20260920/inputs/handoff/prompts/flash_classification_prompt.txt",
+    "sha256": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+    "operation": "copied existing execution record; no provider invocation"
+  },
+  {
+    "local_file": "provenance/extension_records/inputs/handoff/schemas/flash_response_schema.json",
+    "source_archive": "/mnt/data/FOMC_New_Model_Extension_Final_20260920.zip",
+    "archive_member": "private/tmp/fomc_new_model_package_final_20260920/inputs/handoff/schemas/flash_response_schema.json",
+    "sha256": "82e1fe0db97d508ab4c28ae17698c1b2ac32b3de2f131c685f75a0f03c76ddd2",
+    "operation": "copied existing execution record; no provider invocation"
+  },
+  {
+    "local_file": "provenance/extension_records/logs/flash_requests.jsonl",
+    "source_archive": "/mnt/data/FOMC_New_Model_Extension_Final_20260920.zip",
+    "archive_member": "private/tmp/fomc_new_model_package_final_20260920/logs/flash_requests.jsonl",
+    "sha256": "9aceb5f54d9847c0f9d7a16bf5c9644c0121c9f35b7f8ae94dc6624337f56f76",
+    "operation": "copied existing execution record; no provider invocation"
+  },
+  {
+    "local_file": "provenance/extension_records/logs/flash_requests_interrupted_sequential.jsonl",
+    "source_archive": "/mnt/data/FOMC_New_Model_Extension_Final_20260920.zip",
+    "archive_member": "private/tmp/fomc_new_model_package_final_20260920/logs/flash_requests_interrupted_sequential.jsonl",
+    "sha256": "cbcbda0456747b972313232941e10dae03e44baabdedd67fd927e2e3701626bc",
+    "operation": "copied existing execution record; no provider invocation"
+  },
+  {
+    "local_file": "provenance/extension_records/logs/gemini001_refresh_original_requests.jsonl",
+    "source_archive": "/mnt/data/FOMC_New_Model_Extension_Final_20260920.zip",
+    "archive_member": "private/tmp/fomc_new_model_package_final_20260920/logs/gemini001_refresh_original_requests.jsonl",
+    "sha256": "0cd13705def6d801cfcf97064fe204c7343024bcf24fe6d45ae6bc9d02b09302",
+    "operation": "copied existing execution record; no provider invocation"
+  },
+  {
+    "local_file": "provenance/extension_records/logs/gemini001_refresh_numbers_masked_requests.jsonl",
+    "source_archive": "/mnt/data/FOMC_New_Model_Extension_Final_20260920.zip",
+    "archive_member": "private/tmp/fomc_new_model_package_final_20260920/logs/gemini001_refresh_numbers_masked_requests.jsonl",
+    "sha256": "ce89d490f60fdcb91ab4902454add029741b413b8b22cec5b67919295d6273ed",
+    "operation": "copied existing execution record; no provider invocation"
+  },
+  {
+    "local_file": "provenance/extension_records/protocol_locked.json",
+    "source_archive": "/mnt/data/FOMC_New_Model_Extension_Final_20260920.zip",
+    "archive_member": "private/tmp/fomc_new_model_package_final_20260920/protocol_locked.json",
+    "sha256": "55498aff901b772b8207a426795c7e1583338d6f286031c87be8951ccf0dffe7",
+    "operation": "copied existing execution record; no provider invocation"
+  },
+  {
+    "local_file": "provenance/extension_records/COST_AND_RUN_LEDGER.md",
+    "source_archive": "/mnt/data/FOMC_New_Model_Extension_Final_20260920.zip",
+    "archive_member": "private/tmp/fomc_new_model_package_final_20260920/COST_AND_RUN_LEDGER.md",
+    "sha256": "c1156d56e5d66866ce73bf9fa588151ed9d36fc70ab76a0d60796ee7afc24515",
+    "operation": "copied existing execution record; no provider invocation"
+  }
+]

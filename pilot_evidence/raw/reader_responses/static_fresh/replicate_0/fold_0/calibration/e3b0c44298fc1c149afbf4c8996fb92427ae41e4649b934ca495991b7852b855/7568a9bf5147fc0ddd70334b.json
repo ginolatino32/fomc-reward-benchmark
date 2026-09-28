@@ -1,0 +1,22 @@
+{
+  "passage_id": "7568a9bf5147fc0ddd70334b",
+  "response": {
+    "tone": "positive",
+    "evidence": [
+      {
+        "quote": "Optimism about global recovery reportedly prompted gains in the equity markets of major industrial countries."
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "982e70e5-517a-42b3-a6a7-05cd5619342a",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "67706a9d498b2ca5fd1cc1c33d218f5b5234a84d3dba271bf459a5d9598ed3d8"
+}

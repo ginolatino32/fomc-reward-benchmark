@@ -1,0 +1,10 @@
+{
+  "sources/replicate_author_method_counts.py": {
+    "sha256": "a9d4f9093cdb25ccdb6cf6d62dadf708657e68fa5de9634591af106ee8520ac4",
+    "bytes": 22840
+  },
+  "sources/w26894.pdf": {
+    "sha256": "dbc3380b1463b0e72b6360a4e46cdc39658cfdf83606b9d010ebde0377d0bb88",
+    "bytes": 578135
+  }
+}

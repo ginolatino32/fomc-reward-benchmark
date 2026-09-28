@@ -1,0 +1,15 @@
+variant,diagnostic,tone,numerator,denominator,value,status,notes
+numbers_masked,valid_output_rate,,1197,1197,1.0,COMPLETE,"Validity rate, not accuracy"
+numbers_masked,label_distribution,positive,505,1197,0.4218880534670008,COMPLETE,"Natural-corpus distribution, not accuracy"
+numbers_masked,label_distribution,negative,358,1197,0.29908103592314117,COMPLETE,"Natural-corpus distribution, not accuracy"
+numbers_masked,label_distribution,neutral,60,1197,0.05012531328320802,COMPLETE,"Natural-corpus distribution, not accuracy"
+numbers_masked,label_distribution,hypothetical,38,1197,0.031746031746031744,COMPLETE,"Natural-corpus distribution, not accuracy"
+numbers_masked,label_distribution,unclear,236,1197,0.1971595655806182,COMPLETE,"Natural-corpus distribution, not accuracy"
+original,valid_output_rate,,1197,1197,1.0,COMPLETE,"Validity rate, not accuracy"
+original,label_distribution,positive,504,1197,0.42105263157894735,COMPLETE,"Natural-corpus distribution, not accuracy"
+original,label_distribution,negative,365,1197,0.30492898913951544,COMPLETE,"Natural-corpus distribution, not accuracy"
+original,label_distribution,neutral,60,1197,0.05012531328320802,COMPLETE,"Natural-corpus distribution, not accuracy"
+original,label_distribution,hypothetical,36,1197,0.03007518796992481,COMPLETE,"Natural-corpus distribution, not accuracy"
+original,label_distribution,unclear,232,1197,0.19381787802840433,COMPLETE,"Natural-corpus distribution, not accuracy"
+original,repeat_label_agreement,,41,41,1.0,COMPLETE,50 fixed original requests; first valid primary label versus one independent repeat
+original,repeat_valid_output_rate,,43,50,0.86,COMPLETE,"Repeat diagnostic validity, not natural-corpus accuracy"

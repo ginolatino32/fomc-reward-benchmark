@@ -1,0 +1,9 @@
+model,comparator,n,mse_gain_pct,ci_low,ci_high,raw_conditional_two_sided_p,scope
+gemini,published_attention_counts,75,38.67604447691184,30.223491557584694,53.10915394181249,0.0009,"post-discovery comparison, conditional on saved losses; no independent confirmatory interpretation"
+gemini,published_human_counts,75,-35.577660991791916,-116.23527090640236,3.163914743013857,0.0777,"post-discovery comparison, conditional on saved losses; no independent confirmatory interpretation"
+gemini,published_human_counts_quadratic,75,-40.353425108633175,-134.51609320529576,-2.5462879521379094,0.041,"post-discovery comparison, conditional on saved losses; no independent confirmatory interpretation"
+gemini,published_human_counts_excl_financial,75,-7.733831686378401,-53.94788016937652,13.721450021142113,0.5716,"post-discovery comparison, conditional on saved losses; no independent confirmatory interpretation"
+flash_five,published_attention_counts,75,55.66738198825125,39.73646767787124,73.74201812633153,0.0013,"post-discovery comparison, conditional on saved losses; no independent confirmatory interpretation"
+flash_five,published_human_counts,75,1.9875250315098958,-18.39357694076698,17.39959930462425,0.7663,"post-discovery comparison, conditional on saved losses; no independent confirmatory interpretation"
+flash_five,published_human_counts_quadratic,75,-1.4649940452549526,-34.68346527272174,10.914853066837132,0.8455,"post-discovery comparison, conditional on saved losses; no independent confirmatory interpretation"
+flash_five,published_human_counts_excl_financial,75,22.11652418122214,-7.060988434696012,40.07653218900925,0.1066,"post-discovery comparison, conditional on saved losses; no independent confirmatory interpretation"

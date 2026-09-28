@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FOMC passage-level equity direction output; not a human ground-truth label",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "tone": {
+      "type": "string",
+      "enum": [
+        "positive",
+        "negative",
+        "neutral",
+        "hypothetical",
+        "unclear"
+      ]
+    },
+    "evidence": {
+      "type": "array",
+      "maxItems": 3,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "quote": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "quote"
+        ]
+      }
+    },
+    "reason_code": {
+      "type": "string",
+      "enum": [
+        "direction_explicit",
+        "flat_explicit",
+        "hypothetical_only",
+        "mixed_or_conflicting",
+        "level_without_direction",
+        "insufficient_context",
+        "not_equity_specific"
+      ]
+    }
+  },
+  "required": [
+    "tone",
+    "evidence",
+    "reason_code"
+  ]
+}

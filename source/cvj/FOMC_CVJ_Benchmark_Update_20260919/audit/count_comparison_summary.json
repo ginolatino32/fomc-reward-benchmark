@@ -1,0 +1,9 @@
+{
+  "documents": 200,
+  "overlap_documents_2000_2016": 136,
+  "meetings_changed_uploaded_to_audited": 67,
+  "negative_count_correlation": 0.973733801174172,
+  "positive_count_correlation": 0.9704244430710012,
+  "original_author_series_available": false,
+  "scope": "All available 2000\u20132024 minutes; no 1994\u20131999 minutes or original count outputs supplied."
+}

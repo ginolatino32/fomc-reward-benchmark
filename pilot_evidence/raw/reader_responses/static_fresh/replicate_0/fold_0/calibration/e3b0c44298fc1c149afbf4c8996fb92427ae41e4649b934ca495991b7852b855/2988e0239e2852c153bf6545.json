@@ -1,0 +1,25 @@
+{
+  "passage_id": "2988e0239e2852c153bf6545",
+  "response": {
+    "tone": "negative",
+    "evidence": [
+      {
+        "quote": "further declines in stock market prices"
+      },
+      {
+        "quote": "sizable declines in equity prices that had occurred"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "6cf68fa0-d13a-4dad-9ef3-472f31ea0315",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "a83f179e10484b68347069a5eecd73c02102c6fb732fe8c25d40dc6e3592e1ab"
+}

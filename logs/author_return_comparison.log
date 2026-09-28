@@ -1,0 +1,26 @@
+author_original_target rules_whole_linear done
+author_original_target rules_whole_quadratic done
+author_original_target flash_five done
+author_original_target gemini done
+author_original_target tfidf done
+author_original_target published_attention_counts done
+author_original_target published_human_counts done
+author_original_target published_human_counts_quadratic done
+author_original_target published_human_counts_excl_financial done
+                                model  n      mse    rmse     mae   oos_r2  gain_vs_published_human_pct
+                           flash_five 35  8.40827 2.89970 2.25728  0.49726                     16.72090
+                               gemini 35  8.20670 2.86473 2.27601  0.50932                     18.71728
+           published_attention_counts 35 16.73700 4.09109 3.26736 -0.00072                    -65.77050
+               published_human_counts 35 10.09649 3.17750 2.28206  0.39632                      0.00000
+published_human_counts_excl_financial 35  7.37477 2.71565 2.14360  0.55906                     26.95707
+           published_human_counts_ols 35 10.64055 3.26199 2.34318  0.36379                     -5.38862
+     published_human_counts_quadratic 35  8.11366 2.84845 2.23819  0.51488                     19.63876
+                   rules_whole_linear 35 10.47297 3.23620 2.70256  0.37382                     -3.72878
+                rules_whole_quadratic 35  8.90331 2.98384 2.52259  0.46767                     11.81778
+                                tfidf 35 13.36504 3.65582 2.91646  0.20090                    -32.37316
+             model                        benchmark  n  mse_gain_pct    ci_low  ci_high  conditional_two_sided_p  block_length                                                                  scope
+            gemini           published_human_counts 35      18.71728 -26.48519 65.23888                   0.5529             4 new comparator on already explored overlap; not independent validation
+        flash_five           published_human_counts 35      16.72090 -20.80651 39.48742                   0.3531             4 new comparator on already explored overlap; not independent validation
+            gemini published_human_counts_quadratic 35      -1.14668 -71.07462 54.57161                   0.9733             4 new comparator on already explored overlap; not independent validation
+            gemini       published_human_counts_ols 35      22.87334 -20.72393 67.07331                   0.4560             4 new comparator on already explored overlap; not independent validation
+rules_whole_linear           published_human_counts 35      -3.72878 -70.07553 46.61451                   0.9041             4 new comparator on already explored overlap; not independent validation

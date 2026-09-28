@@ -1,0 +1,22 @@
+{
+  "passage_id": "750c3d17b7ce84a720fe797f",
+  "response": {
+    "tone": "negative",
+    "evidence": [
+      {
+        "quote": "declines in equity prices"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "feedback",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "a25fec3f-f013-4132-b4dd-4460a336aea0",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "3c2b5a09b2fe4dd6062f71016dd6df3c319da46a522676413da085bbb9a8137d"
+}

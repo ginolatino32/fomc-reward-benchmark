@@ -1,0 +1,22 @@
+{
+  "passage_id": "7001886096a33f02efd9e6ab",
+  "response": {
+    "tone": "negative",
+    "evidence": [
+      {
+        "quote": "European stock prices dropped more than those in the United States, while Japanese equity prices declined less"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "20f69001-b9f3-4601-8f11-f57a1d5a2927",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "9cc0ad7a5d4aa659d88ea9ce8a5d1beb358a844b47643fffeab7e0f06a956746"
+}

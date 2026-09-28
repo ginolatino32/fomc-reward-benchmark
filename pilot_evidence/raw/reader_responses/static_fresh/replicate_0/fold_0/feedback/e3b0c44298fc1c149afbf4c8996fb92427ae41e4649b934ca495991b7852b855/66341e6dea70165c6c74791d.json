@@ -1,0 +1,25 @@
+{
+  "passage_id": "66341e6dea70165c6c74791d",
+  "response": {
+    "tone": "positive",
+    "evidence": [
+      {
+        "quote": "Recent increases in house prices and equity prices were positives"
+      },
+      {
+        "quote": "recent rise in equity prices"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "feedback",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "0640dc6c-d7ef-44f4-9f66-51fd59692a2a",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "3462adebc5080a4653076b446f0e0068ba8ed2e6e74a577bdd6d9609b2ff4025"
+}

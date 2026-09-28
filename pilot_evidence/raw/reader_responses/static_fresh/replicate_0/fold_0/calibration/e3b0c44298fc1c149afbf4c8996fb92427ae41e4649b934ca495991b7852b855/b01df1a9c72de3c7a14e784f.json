@@ -1,0 +1,22 @@
+{
+  "passage_id": "b01df1a9c72de3c7a14e784f",
+  "response": {
+    "tone": "positive",
+    "evidence": [
+      {
+        "quote": "improvement in the stock market"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "982e70e5-517a-42b3-a6a7-05cd5619342a",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "308a84dc5901e08a5451675f7c04d1284db9bf159153ba68ea1ff83e777d1174"
+}

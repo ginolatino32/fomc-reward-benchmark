@@ -1,0 +1,5 @@
+arm,changed_text_passages,unchanged_text_passages,identical_vectors_changed_text,identical_vectors_unchanged_text,median_cosine_changed_text,median_cosine_unchanged_text
+gemini001_refresh,542,655,0,655,0.9967737569260504,1.0
+gemini2,542,655,0,655,0.9914076321057163,1.0
+voyage_isolated,542,655,0,655,0.983095143169671,1.0
+voyage_context,542,655,0,82,0.9820654016985408,0.9929593976774974

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite the paper below."
+title: "FOMC reward benchmark"
+authors:
+  - family-names: Bossi
+    given-names: Manuel
+    affiliation: Stevens Institute of Technology
+    email: mbossi@stevens.edu
+repository-code: "https://github.com/ginolatino32/fomc-reward-benchmark"
+license: MIT
+date-released: 2026-09-28
+preferred-citation:
+  type: conference-paper
+  title: "Which Outcome Should Teach an LLM Reader? A Verified FOMC Benchmark and Reward-Design Evidence for Outcome-Guided Agents in Finance"
+  authors:
+    - family-names: Bossi
+      given-names: Manuel
+  collection-title: "Workshop on Reinforcement Learning for LLM-based Agents (RL4LLM-Agents) at ACM ICAIF 2026"
+  year: 2026

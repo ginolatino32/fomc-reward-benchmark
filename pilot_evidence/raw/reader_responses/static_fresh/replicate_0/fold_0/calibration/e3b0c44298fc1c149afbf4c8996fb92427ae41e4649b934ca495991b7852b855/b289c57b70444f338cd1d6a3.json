@@ -1,0 +1,22 @@
+{
+  "passage_id": "b289c57b70444f338cd1d6a3",
+  "response": {
+    "tone": "unclear",
+    "evidence": [
+      {
+        "quote": "absence of further large gains in stock market prices"
+      }
+    ],
+    "reason_code": "insufficient_context"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "0aa84564-2a31-460a-85b1-0123943c8b7b",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "9c303d36a0a226478c44d72c5a91cc59f96ec3bd86f25b9e10101abcbeac035e"
+}

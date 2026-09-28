@@ -1,0 +1,14 @@
+{
+  "uploaded_source_unchanged": true,
+  "200_unique_meetings": true,
+  "nonnegative_integer_counts": true,
+  "noun_audit_total": true,
+  "classified_audit_total": true,
+  "all_24_code_cases_pass": true,
+  "99_evaluations_per_pipeline": true,
+  "unique_predictions": true,
+  "strict_chronology": true,
+  "finite_predictions": true,
+  "headline_RMSE_unchanged": true,
+  "headline_R2_unchanged": true
+}

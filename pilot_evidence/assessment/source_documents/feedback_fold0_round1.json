@@ -1,0 +1,500 @@
+{
+  "fold": 0,
+  "round": 1,
+  "description": "Genuine Fold 0 Round 1 outcome-guided feedback based on 253 C classifications and 117 F classifications.",
+  "fitted_alpha_on_c": 1.0,
+  "c_train_mse": 11.921789277515776,
+  "f_overall_mse": 40.10811039316513,
+  "feedback_episodes": [
+    {
+      "episode_id": "feedback_episode_1",
+      "realized_return_pct": -30.99,
+      "predicted_return_pct": -5.77,
+      "prediction_error_pct": -25.22,
+      "meeting_passage_counts": {
+        "positive": 0,
+        "negative": 5,
+        "neutral": 0,
+        "hypothetical": 0,
+        "unclear": 0
+      },
+      "passages": [
+        {
+          "passage_id": "a46057cecc80f3114b3a2629",
+          "classified_tone": "negative",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "equity prices registered steep declines"
+            }
+          ],
+          "text": "(AIG), and Wachovia Corporation, along with the closing of Washington Mutual, led to intensified market concerns about the condition of financial institutions. In this environment, investors pulled back from risk-taking, funding markets for terms beyond overnight largely ceased to function at times, credit risk spreads rose sharply, and equity prices registered steep declines. The information reviewed at the October meeting indicated that economic conditions deteriorated in recent months."
+        },
+        {
+          "passage_id": "b7768f130f5b19fca64de301",
+          "classified_tone": "negative",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "Broad equity price indexes declined sharply over the intermeeting period"
+            }
+          ],
+          "text": "However, conditions deteriorated in the secondary market for syndicated leveraged loans, with prices falling to new lows and bid-asked spreads widening notably. Broad equity price indexes declined sharply over the intermeeting period, and option-implied volatility on the S&P 500 index rose well above its previous record high. The Senior Loan Officer Opinion Survey pointed to further tightening of terms and standards for consumer loans."
+        },
+        {
+          "passage_id": "fdf18d4dfaa58511ede42e0b",
+          "classified_tone": "negative",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "Equity market indexes fell sharply in the advanced economies as well as in emerging market economies"
+            }
+          ],
+          "text": "Sovereign bond yields in the advanced foreign economies were volatile; nominal yield curves in many countries steepened on net. Equity market indexes fell sharply in the advanced economies as well as in emerging market economies, which until recently had not been hit as hard by the financial turmoil. The dollar appreciated against most currencies, with the prominent exception of the Japanese yen."
+        },
+        {
+          "passage_id": "692caa1c4186b75ecee1e9be",
+          "classified_tone": "negative",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "Equity prices had varied widely and were substantially lower, on net."
+            }
+          ],
+          "text": "Survey results and anecdotal information also suggested that credit conditions had tightened significantly further for businesses and households. Equity prices had varied widely and were substantially lower, on net. Participants saw the potential for financial strains to intensify if some investors, such as hedge funds, found it necessary to sell assets and as lending institutions built reserves against losses."
+        },
+        {
+          "passage_id": "fbdd3acb567a979625265e6e",
+          "classified_tone": "negative",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "equity prices had dropped sharply"
+            }
+          ],
+          "text": "On October 7, 2008, the Committee again met by conference call. Stresses in financial markets had continued to increase: Interest-rate spreads in interbank funding markets had widened markedly, corporate and municipal bond yields had risen, and equity prices had dropped sharply. For the first time in many years, the net asset value of a major money market fund had fallen below $1 per share; this event sparked a flight out of prime money market funds and caused a severe impairment of the functioning of the commercial paper market."
+        }
+      ]
+    },
+    {
+      "episode_id": "feedback_episode_2",
+      "realized_return_pct": 7.14,
+      "predicted_return_pct": 0.57,
+      "prediction_error_pct": 6.57,
+      "meeting_passage_counts": {
+        "positive": 2,
+        "negative": 1,
+        "neutral": 0,
+        "hypothetical": 0,
+        "unclear": 0
+      },
+      "passages": [
+        {
+          "passage_id": "6bc2780e6afb8a30892acb17",
+          "classified_tone": "negative",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "appreciable net decline in broad equity prices over that period"
+            }
+          ],
+          "text": "Real disposable personal income also grew slowly in the first quarter, restrained by rapidly rising prices for energy and food. The ratio of household wealth to disposable income appeared to have moved down again in the first quarter, damped by the appreciable net decline in broad equity prices over that period and by further reductions in house prices. Measures of consumer sentiment fell sharply in March and April; the April reading of consumer sentiment published in the Reuters/University of Michigan Survey of Consumers was near the low levels posted in the early 1990s."
+        },
+        {
+          "passage_id": "19cf7ec0c95884f76b2149fa",
+          "classified_tone": "positive",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "Broad stock price indexes increased markedly over the intermeeting period"
+            }
+          ],
+          "text": "Spreads of rates on conforming residential mortgages over those on comparable-maturity Treasury securities decreased, and credit default swap premiums for the government-sponsored enterprises declined substantially. Broad stock price indexes increased markedly over the intermeeting period, mainly in response to earnings reports and announcements of recapitalizations from major financial institutions that evidently lessened investors' concerns about the possibility of severe difficulties materializing at those firms. Conditions in the money markets of major foreign economies remained strained, particularly in the United Kingdom and the euro area."
+        },
+        {
+          "passage_id": "54a2c7e01f7c534dfda6390f",
+          "classified_tone": "positive",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "Equity prices and yields on Treasury securities had increased"
+            }
+          ],
+          "text": "Conditions across a number of financial markets had improved since the previous FOMC meeting. Equity prices and yields on Treasury securities had increased, volatility in both equity and debt markets had ebbed somewhat, and a range of credit risk premiums had moved down. Participants noted that the better tone of financial markets had been helped by the apparent willingness and ability of financial institutions to raise new capital."
+        }
+      ]
+    },
+    {
+      "episode_id": "feedback_episode_3",
+      "realized_return_pct": -6.96,
+      "predicted_return_pct": -0.69,
+      "prediction_error_pct": -6.27,
+      "meeting_passage_counts": {
+        "positive": 0,
+        "negative": 4,
+        "neutral": 0,
+        "hypothetical": 0,
+        "unclear": 1
+      },
+      "passages": [
+        {
+          "passage_id": "638f764c516b25c219162538",
+          "classified_tone": "negative",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "substantial net declines in and had changed relatively little, on net, since the mid- broad equity prices"
+            }
+          ],
+          "text": "the first quarter, reflecting substantial net declines in and had changed relatively little, on net, since the mid- broad equity prices and further depreciation of house dle of 2007. Despite sharply lower sales of motor vehi-"
+        },
+        {
+          "passage_id": "c56f6b57a6bf0e1f663b34e8",
+          "classified_tone": "negative",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "declined modestly, on net, over the intermeeting pe-"
+            }
+          ],
+          "text": "low. Broad stock prices were somewhat volatile but large increase in energy prices also prompted an up- declined modestly, on net, over the intermeeting pe- ward revision of the forecast of headline PCE inflation"
+        },
+        {
+          "passage_id": "e3201c446bfdab3b6f1d48c8",
+          "classified_tone": "negative",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "The surge in oil prices weighed on equity prices in the second half of 2008"
+            }
+          ],
+          "text": "riod. The surge in oil prices weighed on equity prices in the second half of 2008, and headline inflation was outside of the energy sector, and a more pessimistic expected to exceed core inflation by a considerable"
+        },
+        {
+          "passage_id": "05582dbe9980f0f33883b2af",
+          "classified_tone": "unclear",
+          "reason_code": "insufficient_context",
+          "evidence": [
+            {
+              "quote": "the equity prices"
+            }
+          ],
+          "text": "issuance had been strong. However, the equity prices market might be bottoming out in some parts of the of many investment and commercial banks had de- country, most aggregate indicators of housing activity"
+        },
+        {
+          "passage_id": "00f43c4c3e7e98dce8618cef",
+          "classified_tone": "negative",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "equity prices of housing-related The deteriorating condition of some financial guaran- firms had fallen over the intermeeting period"
+            }
+          ],
+          "text": "concern about asset quality and the outlook for profits. had increased, and the equity prices of housing-related The deteriorating condition of some financial guaran- firms had fallen over the intermeeting period, after hav-"
+        }
+      ]
+    },
+    {
+      "episode_id": "feedback_episode_4",
+      "realized_return_pct": 2.27,
+      "predicted_return_pct": 6.69,
+      "prediction_error_pct": -4.42,
+      "meeting_passage_counts": {
+        "positive": 7,
+        "negative": 0,
+        "neutral": 0,
+        "hypothetical": 0,
+        "unclear": 2
+      },
+      "passages": [
+        {
+          "passage_id": "86528d0521b3e3d11f724ffd",
+          "classified_tone": "positive",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "equity prices recorded substantial gains in April and May"
+            }
+          ],
+          "text": "The fundamental determinants of consumer demand appeared to have improved a bit: Despite the ongoing decline in employment, real disposable personal income rose in the first quarter and posted another sizable gain in April as various provisions of the American Recovery and Reinvestment Act of 2009 boosted transfer payments and reduced personal taxes. In addition, equity prices recorded substantial gains in April and May, reversing a small portion of the prior wealth declines. Measures of consumer sentiment, while remaining at levels typically seen during recessions, improved markedly from the historical lows recorded around the turn of the year."
+        },
+        {
+          "passage_id": "fd3a4fe2bb6fb6d30d272db5",
+          "classified_tone": "positive",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "Broad stock price indexes rose, on net, over the intermeeting period"
+            }
+          ],
+          "text": "Some strains, perhaps associated with these flows, emerged at times in the MBS market; market participants reacted to the large and rapid changes in MBS yields by widening bid-asked spreads on these securities. Broad stock price indexes rose, on net, over the intermeeting period, reflecting generally better-than-expected economic news and further declines in risk premiums. The spread between an estimate of the expected real equity return over the next 10 years for S&P 500 firms and an estimate of the real 10-year Treasury yield--a rough gauge of the equity risk premium--narrowed noticeably but remained high by historical standards."
+        },
+        {
+          "passage_id": "afdc0ab174f4287db7dbb796",
+          "classified_tone": "positive",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "Broad stock price indexes rose, on net, over the intermeeting period"
+            }
+          ],
+          "text": "Broad stock price indexes rose, on net, over the intermeeting period, reflecting generally better-than-expected economic news and further declines in risk premiums. The spread between an estimate of the expected real equity return over the next 10 years for S&P 500 firms and an estimate of the real 10-year Treasury yield--a rough gauge of the equity risk premium--narrowed noticeably but remained high by historical standards. Option-implied volatility on the S&P 500 index declined but remained elevated."
+        },
+        {
+          "passage_id": "4c13e7d0c10267b23710e509",
+          "classified_tone": "unclear",
+          "reason_code": "insufficient_context",
+          "evidence": [
+            {
+              "quote": "The spread between an estimate of the expected real equity return over the next 10 years for S&P 500 firms and an estimate of the real 10-year Treasury yield--a rough gauge of the equity risk premium--narrowed noticeably but remained high by historical standards."
+            },
+            {
+              "quote": "Option-implied volatility on the S&P 500 index declined but remained elevated."
+            }
+          ],
+          "text": "The spread between an estimate of the expected real equity return over the next 10 years for S&P 500 firms and an estimate of the real 10-year Treasury yield--a rough gauge of the equity risk premium--narrowed noticeably but remained high by historical standards. Option-implied volatility on the S&P 500 index declined but remained elevated. Yields on speculative-grade and investment-grade corporate bonds dropped, and spreads over yields on comparable-maturity Treasury securities narrowed considerably."
+        },
+        {
+          "passage_id": "9d8a2fb8c772e63831f000af",
+          "classified_tone": "positive",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "Stock price indexes for the banking sector and the broader financial sectors rose significantly."
+            }
+          ],
+          "text": "CDS spreads for banking organizations declined considerably over the intermeeting period, although they remained well above historical norms. Stock price indexes for the banking sector and the broader financial sectors rose significantly. The level of private-sector debt was estimated to have remained about unchanged in the second quarter, as a further modest decline in household debt about offset a slight increase in nonfinancial business debt."
+        },
+        {
+          "passage_id": "e66dad2f9bb23f58d7266970",
+          "classified_tone": "positive",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "buoyed bank stocks, which helped headline equity indexes move higher"
+            },
+            {
+              "quote": "Most stock markets in emerging market economies rose considerably"
+            }
+          ],
+          "text": "Libor-to-OIS spreads in euros and sterling decreased, and several foreign banks took advantage of improved financial conditions to raise capital and increase issuance of debt outside of government guarantee programs. The improved access to capital markets and better economic outlook buoyed bank stocks, which helped headline equity indexes move higher. Most stock markets in emerging market economies rose considerably, and mutual fund flows into those markets strengthened."
+        },
+        {
+          "passage_id": "79a304be8e343ac4f8be5993",
+          "classified_tone": "positive",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "buoyed bank stocks, which helped headline equity indexes move higher"
+            },
+            {
+              "quote": "Most stock markets in emerging market economies rose considerably"
+            }
+          ],
+          "text": "The improved access to capital markets and better economic outlook buoyed bank stocks, which helped headline equity indexes move higher. Most stock markets in emerging market economies rose considerably, and mutual fund flows into those markets strengthened. The European Central Bank lowered its main policy rate 25 basis points to 1 percent and announced that it would purchase up to \u20ac60 billion in covered bonds."
+        },
+        {
+          "passage_id": "0483fb382ed25c851f14dd63",
+          "classified_tone": "unclear",
+          "reason_code": "not_equity_specific",
+          "evidence": [
+            {
+              "quote": "The Bank of Japan continued purchasing commercial paper, corporate bonds, equities, and government bonds."
+            }
+          ],
+          "text": "The Bank of England, the Bank of Canada, and the Bank of Japan kept their policy rates constant over the intermeeting period, but the Bank of England increased the size of its planned asset purchases from \u00a375 billion to \u00a3125 billion. The Bank of Japan continued purchasing commercial paper, corporate bonds, equities, and government bonds. Chinese authorities held the renminbi nearly unchanged against the dollar, and several central banks intervened to purchase dollars, attempting to slow the dollar's depreciation against their currencies."
+        },
+        {
+          "passage_id": "d35e8af9008e53d687797963",
+          "classified_tone": "positive",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "Increases in equity prices"
+            }
+          ],
+          "text": "Corporate credit markets continued to improve, and markets for asset-backed securities also showed an increasing amount of activity, supported in part by the TALF. Increases in equity prices had favorable effects on household wealth and overall sentiment. Still, participants generally noted that the improvement in market conditions was in part due to ongoing support from various government programs and that underlying financial conditions remained fragile."
+        }
+      ]
+    },
+    {
+      "episode_id": "feedback_episode_5",
+      "realized_return_pct": -1.96,
+      "predicted_return_pct": -6.23,
+      "prediction_error_pct": 4.27,
+      "meeting_passage_counts": {
+        "positive": 0,
+        "negative": 5,
+        "neutral": 0,
+        "hypothetical": 0,
+        "unclear": 0
+      },
+      "passages": [
+        {
+          "passage_id": "c3ce34a9a4215c3eae71d9cf",
+          "classified_tone": "negative",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "equity prices declined, on balance"
+            }
+          ],
+          "text": "Tax rebates provided a notable, albeit temporary boost to income since the end of April, but real disposable income excluding rebates was essentially flat in the second quarter. The ratio of wealth to income likely declined again in the second quarter, as equity prices declined, on balance, and house prices continued to fall. Consumer sentiment rose a bit in July but remained at a depressed level."
+        },
+        {
+          "passage_id": "24ec2f5063912668dd009657",
+          "classified_tone": "negative",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "Broad equity price indexes were volatile and declined modestly, on net, between the June and August FOMC meetings."
+            }
+          ],
+          "text": "Corporate bond issuance slowed further, as did lending by banks to businesses and households, and issuance of leveraged loans remained very weak. Broad equity price indexes were volatile and declined modestly, on net, between the June and August FOMC meetings. Stock prices of financial firms fell sharply in mid-July but subsequently recouped most of those losses."
+        },
+        {
+          "passage_id": "5c09030be47b45e6c0e53135",
+          "classified_tone": "negative",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "Broad equity price indexes were volatile and declined modestly, on net, between the June and August FOMC meetings."
+            }
+          ],
+          "text": "Broad equity price indexes were volatile and declined modestly, on net, between the June and August FOMC meetings. Stock prices of financial firms fell sharply in mid-July but subsequently recouped most of those losses. Energy sector stocks significantly underperformed the broad indexes owing to recent declines in oil prices."
+        },
+        {
+          "passage_id": "45944ae40f8ccb4e8992e585",
+          "classified_tone": "negative",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "broad equity price indexes had declined"
+            }
+          ],
+          "text": "While some financial institutions had strengthened their balance sheets with new capital issues, raising new capital had become increasingly difficult. Moreover, broad equity price indexes had declined and borrowing costs for nonfinancial firms had increased, including a recent rise in corporate bond yields across most risk categories. Many participants believed that these developments were likely to restrain aggregate demand and economic growth."
+        },
+        {
+          "passage_id": "9c80775b9a859af44f335232",
+          "classified_tone": "negative",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "Lower equity prices"
+            }
+          ],
+          "text": "For example, automotive parts suppliers in one District had reported plans for laying off workers, idling production, and closing several plants. Lower equity prices and the ongoing deterioration in house prices had reduced household wealth significantly, while real incomes had been diminished by earlier increases in the prices of food and energy. All of these factors--in conjunction with tightened access to auto loans, home equity lines of credit, and other consumer loans--were viewed as pointing towards weak growth in personal consumption expenditures during the second half of 2008."
+        }
+      ]
+    },
+    {
+      "episode_id": "feedback_episode_6",
+      "realized_return_pct": 8.94,
+      "predicted_return_pct": 5.01,
+      "prediction_error_pct": 3.93,
+      "meeting_passage_counts": {
+        "positive": 5,
+        "negative": 0,
+        "neutral": 0,
+        "hypothetical": 0,
+        "unclear": 3
+      },
+      "passages": [
+        {
+          "passage_id": "622e4d825fe1ca5b7e75e500",
+          "classified_tone": "unclear",
+          "reason_code": "mixed_or_conflicting",
+          "evidence": [
+            {
+              "quote": "despite recent increases, equity prices were down substantially from their levels of 12 months earlier"
+            }
+          ],
+          "text": "Real outlays on new and used motor vehicles expanded in the first quarter following six consecutive quarterly declines. Despite the upturn in consumer spending, the fundamentals for this sector remained weak: Wages and salaries dropped, house prices were markedly lower than a year ago, and, despite recent increases, equity prices were down substantially from their levels of 12 months earlier. As measured by the Reuters/University of Michigan survey, consumer sentiment strengthened a bit in early April, as households expressed somewhat more optimism about long-term economic conditions; however, even with this improvement, the measure was only slightly above the historical low for the series recorded last November."
+        },
+        {
+          "passage_id": "054655e5abc9a376a6afd557",
+          "classified_tone": "positive",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "Broad stock price indexes rose significantly"
+            },
+            {
+              "quote": "Financial stocks outperformed broader markets"
+            }
+          ],
+          "text": "Still, daily trading volumes for Treasury securities remained low. Broad stock price indexes rose significantly, reportedly buoyed by announcements of policy measures to enhance credit markets and clean up banks' balance sheets and perhaps by some reduction in concerns about the economic outlook. Financial stocks outperformed broader markets, boosted by relatively favorable first-quarter earnings reports from a few major firms."
+        },
+        {
+          "passage_id": "86668eb24b1b7b69c487204b",
+          "classified_tone": "unclear",
+          "reason_code": "insufficient_context",
+          "evidence": [
+            {
+              "quote": "Financial stocks outperformed broader markets"
+            }
+          ],
+          "text": "Financial stocks outperformed broader markets, boosted by relatively favorable first-quarter earnings reports from a few major firms. The spread between the forward trend earnings-price ratio for S&P 500 firms and an estimate of the real long-run Treasury yield--a rough gauge of the equity risk premium--narrowed during the intermeeting period but was still very high by historical standards. Option-implied volatility on the S&P 500 index decreased but stayed well above historical norms."
+        },
+        {
+          "passage_id": "6cc12da65f36bf54ba93b5e3",
+          "classified_tone": "unclear",
+          "reason_code": "level_without_direction",
+          "evidence": [
+            {
+              "quote": "The spread between the forward trend earnings-price ratio for S&P 500 firms and an estimate of the real long-run Treasury yield--a rough gauge of the equity risk premium--narrowed during the intermeeting period but was still very high by historical standards."
+            },
+            {
+              "quote": "Option-implied volatility on the S&P 500 index decreased but stayed well above historical norms."
+            }
+          ],
+          "text": "The spread between the forward trend earnings-price ratio for S&P 500 firms and an estimate of the real long-run Treasury yield--a rough gauge of the equity risk premium--narrowed during the intermeeting period but was still very high by historical standards. Option-implied volatility on the S&P 500 index decreased but stayed well above historical norms. On net, yields on lower-rated investment-grade and speculative-grade corporate bonds dropped, resulting in a narrowing of spreads in yields on such bonds over those on comparable-maturity Treasury securities."
+        },
+        {
+          "passage_id": "8bc21baf267c7c9171356404",
+          "classified_tone": "positive",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "Stock markets around the world rose substantially over the intermeeting period"
+            }
+          ],
+          "text": "The Senior Loan Officer Opinion Survey conducted in April indicated that banks continued to tighten their credit standards and terms on all major loan categories over the previous three months. Stock markets around the world rose substantially over the intermeeting period amid somewhat better sentiment regarding economic prospects, reports of better-than-expected performance from some financial firms in the United States and Europe, and continued support from monetary policies. Pressures in bank funding markets seemed to ease over the period: Spreads between both euro and sterling Libor and their respective OIS rates narrowed significantly, and financial conditions in most emerging market economies improved."
+        },
+        {
+          "passage_id": "0ae81e6ca3370a4ed03d4fa2",
+          "classified_tone": "positive",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "stock prices rose substantially"
+            }
+          ],
+          "text": "However, the contraction in the labor market persisted into March, industrial production again fell rapidly, and the broad-based decline in equipment and software investment continued. Conditions in financial markets improved more than had been expected: Private borrowing rates moved lower, stock prices rose substantially, and some measures of financial stress eased. The staff's projections for economic activity in the second half of 2009 and in 2010 were revised up, with real GDP expected to edge higher in the second half and then increase moderately next year."
+        },
+        {
+          "passage_id": "40b75464644a9c3cd1570ddb",
+          "classified_tone": "positive",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "Equity prices increased"
+            }
+          ],
+          "text": "Financial market developments over the intermeeting period were mainly seen as positive. Equity prices increased, money markets were functioning better, and corporate issuance of bonds and convertible securities was relatively brisk. Measures of volatility and financial stress moved down and risk spreads narrowed in many markets, perhaps partly because of investors' perceptions of diminished downside tail risks."
+        },
+        {
+          "passage_id": "4bf7e5149a3a66790a6f9c3d",
+          "classified_tone": "positive",
+          "reason_code": "direction_explicit",
+          "evidence": [
+            {
+              "quote": "substantial increase in equity prices that had occurred over the intermeeting period"
+            }
+          ],
+          "text": "Consumer spending firmed somewhat during the first quarter despite the rising unemployment rate and significant financial strains. Participants generally expected that household demand would gradually strengthen over coming quarters in response to the rise in household wealth from the substantial increase in equity prices that had occurred over the intermeeting period as well as the support for income provided by fiscal policy. Nevertheless, participants judged that the recovery in consumer demand over the next few quarters would be slow, reflecting adverse labor market conditions and continuing adjustments to earlier reductions in household wealth."
+        }
+      ]
+    }
+  ]
+}

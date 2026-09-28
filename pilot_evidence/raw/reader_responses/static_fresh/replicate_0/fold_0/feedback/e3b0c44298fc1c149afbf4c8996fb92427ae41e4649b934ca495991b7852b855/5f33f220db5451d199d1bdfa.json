@@ -1,0 +1,22 @@
+{
+  "passage_id": "5f33f220db5451d199d1bdfa",
+  "response": {
+    "tone": "negative",
+    "evidence": [
+      {
+        "quote": "equity prices dropped considerably"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "feedback",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "a25fec3f-f013-4132-b4dd-4460a336aea0",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "f497d300fd72da1c294ca56906a7a7f068f947e92e8242129ab9363dd49e0ceb"
+}

@@ -1,0 +1,22 @@
+{
+  "passage_id": "65b12397bfdea4f857285ab7",
+  "response": {
+    "tone": "positive",
+    "evidence": [
+      {
+        "quote": "recent strength in equity markets"
+      }
+    ],
+    "reason_code": "direction_explicit"
+  },
+  "arm_id": "static_fresh",
+  "replicate": 0,
+  "fold": 0,
+  "phase": "calibration",
+  "candidate_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "model_label": "Gemini 3.8 Flash (High)",
+  "agent_task_id": "574f67b5-0819-43fe-837d-53af261bc1fd",
+  "timestamp_utc": "2026-09-20T17:24:49.513810+00:00",
+  "prompt_hash": "4b5cea7b5eaad3cca48ae4312c4cd3190519bbe7b9cb9984ca524950d21502b4",
+  "input_hash": "0a3f674c8c633b1e4312c7d21d11303b3a76438f8f4a30961153c9344cb66e1a"
+}

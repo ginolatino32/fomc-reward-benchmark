@@ -1,0 +1,27 @@
+     model                            comparator  original_gain_pct  minimum_gain_across_103_variants_pct  maximum_gain_across_103_variants_pct  max_absolute_change_pp
+    gemini            published_attention_counts          50.966717                             50.903405                             51.030716                0.063999
+    gemini                published_human_counts          18.717279                             18.583839                             18.887337                0.170058
+    gemini      published_human_counts_quadratic          -1.146678                             -1.293841                             -0.921515                0.225163
+    gemini published_human_counts_excl_financial         -11.280756                            -11.467023                            -11.114919                0.186267
+flash_five            published_attention_counts          49.762416                             49.655845                             49.847151                0.106571
+flash_five                published_human_counts          16.720904                             16.650540                             16.785836                0.070364
+flash_five      published_human_counts_quadratic          -3.630930                             -3.726483                             -3.547803                0.095553
+flash_five published_human_counts_excl_financial         -14.013909                            -14.256335                            -13.852904                0.242426
+author_earlier_start rules_whole_linear done
+author_earlier_start rules_whole_quadratic done
+author_earlier_start flash_five done
+author_earlier_start gemini done
+author_earlier_start published_attention_counts done
+author_earlier_start published_human_counts done
+author_earlier_start published_human_counts_quadratic done
+author_earlier_start published_human_counts_excl_financial done
+                                        n       mse     rmse      mae   oos_r2  gain_vs_whole_rules_pct
+model                                                                                                  
+flash_five                             75  17.13782  4.13979  2.65194  0.52395                 31.69281
+gemini                                 75  23.70623  4.86890  3.28981  0.34149                  5.51275
+published_attention_counts             75  38.65737  6.21751  4.61888 -0.07382                -54.07886
+published_human_counts                 75  17.48535  4.18155  2.62436  0.51429                 30.30766
+published_human_counts_excl_financial  75  22.00444  4.69089  3.04834  0.38876                 12.29566
+published_human_counts_quadratic       75  16.89038  4.10979  2.59341  0.53082                 32.67906
+rules_whole_linear                     75  25.08934  5.00893  3.59692  0.30307                  0.00000
+rules_whole_quadratic                  75  32.59767  5.70944  3.64132  0.09451                -29.92636

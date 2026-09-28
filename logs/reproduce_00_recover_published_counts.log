@@ -1,0 +1,118 @@
+grid y [83.539, 143.455, 197.803, 252.15, 257.732, 305.88, 320.754, 328.819, 388.736, 443.083, 497.43, 503.012]
+{
+  "author_negative_all": {
+    "drawing_index": 190,
+    "path_vertices": 184,
+    "integer_max_residual": 0.0017036274092632198,
+    "total": 322,
+    "zero_grid": 252.15,
+    "points_per_count": 10.869499999999999,
+    "count_support": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "interpolated_x_count": 0
+  },
+  "author_negative_excl_financial": {
+    "drawing_index": 191,
+    "path_vertices": 184,
+    "integer_max_residual": 0.0017036274092632198,
+    "total": 164,
+    "zero_grid": 252.15,
+    "points_per_count": 10.869499999999999,
+    "count_support": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10
+    ],
+    "interpolated_x_count": 0
+  },
+  "author_positive_all": {
+    "drawing_index": 292,
+    "path_vertices": 183,
+    "integer_max_residual": 0.0016179218580383292,
+    "total": 414,
+    "zero_grid": 497.43,
+    "points_per_count": 10.869400000000002,
+    "count_support": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "interpolated_x_count": 1
+  },
+  "author_positive_excl_financial": {
+    "drawing_index": 293,
+    "path_vertices": 183,
+    "integer_max_residual": 0.001361036703382723,
+    "total": 209,
+    "zero_grid": 497.43,
+    "points_per_count": 10.869400000000002,
+    "count_support": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "interpolated_x_count": 1
+  },
+  "aggregate_checks": {
+    "negative_equal_table6": true,
+    "positive_equal_table6": true
+  },
+  "alignment": {
+    "observations": 184,
+    "existing_date_anchors": 136,
+    "max_calendar_day_residual": 0.6835731744304212,
+    "max_fractional_year_axis_residual_pdf_points": 0.03797018895420479,
+    "max_known_date_residual": 0.6835731744304212,
+    "x_slope_per_day": 0.042551250695191244,
+    "x_intercept_epoch1970": -235.50883083242994,
+    "first_meeting": "1994-02-04",
+    "last_meeting": "2016-12-14"
+  },
+  "source": {
+    "file": "w26894.pdf",
+    "sha256": "dbc3380b1463b0e72b6360a4e46cdc39658cfdf83606b9d010ebde0377d0bb88",
+    "figure": "5",
+    "pdf_page": 50,
+    "printed_page": 48,
+    "type": "author-published human-coded aggregate counts recovered from vector lines; NOT author-supplied raw data or new annotation"
+  }
+}
+meeting_date      x_pdf  author_negative_all  author_negative_all_fractional  author_negative_excl_financial  author_negative_excl_financial_fractional  author_positive_all  author_positive_all_fractional  author_positive_excl_financial  author_positive_excl_financial_fractional
+  1994-02-04 138.939011                    0                       -0.001193                               0                                  -0.001193                    2                        1.998639                               1                                   0.999320
+  1994-03-22 140.893005                    2                        1.998623                               1                                   0.999313                    0                       -0.001195                               0                                  -0.001195
+  1994-05-17 143.274002                    2                        1.998623                               1                                   0.999313                    0                       -0.001195                               0                                  -0.001195
+  1994-07-06 145.403000                    1                        0.999313                               0                                  -0.001193                    0                       -0.001195                               0                                  -0.001195
+  1994-08-16 147.155014                    1                        0.999313                               1                                   0.999313                    2                        1.998639                               1                                   0.999320
+  1994-09-27 148.944000                    0                       -0.001193                               0                                  -0.001193                    1                        0.999320                               0                                  -0.001195
+  1994-11-15 151.022995                    0                       -0.001193                               0                                  -0.001193                    1                        0.999320                               1                                   0.999320
+  1994-12-20 152.522003                    1                        0.999313                               0                                  -0.001193                    0                       -0.001195                               0                                  -0.001195

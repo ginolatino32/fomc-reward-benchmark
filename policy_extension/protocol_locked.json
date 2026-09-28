@@ -1,0 +1,44 @@
+{
+  "title": "Policy-reaction extension: does measured FOMC equity discussion predict the next target-rate change beyond returns?",
+  "locked_by": "Manuel Bossi (analysis run by Claude on his instruction)",
+  "locked_at_utc": "2026-09-26T17:04:47Z",
+  "disclosure": "Not a blind test. Earlier in-sample regressions (Weeks 2 and 4) related minutes language to target changes, and an archived exploratory screen (source/focused/.../benchmark_summary.csv) reported out-of-sample results for a 'decision_change' outcome that the analyst has seen. This protocol fixes the target, sample, controls, representations, folds, estimator, contrasts and tests before any new estimate is computed, and all pre-specified results are reported.",
+  "unit": "FOMC meeting m in the 199-row analysis panel (2000-03-21 to 2024-12-18); text is the minutes of meeting m.",
+  "target": {
+    "name": "next_cycle_target_change_bp",
+    "definition": "L(m+1) - L(m), in basis points, where L(m) is the FRED target (midpoint of the target range after 2008-12-15) as of calendar day date_m + 1, taking the last available daily value on or before that day. m+1 is the next meeting in the panel. Includes intermeeting moves between the two meetings.",
+    "sample": "meetings m whose next meeting m+1 is in the panel: 198 observations (2000-03-21 to 2024-11-07)."
+  },
+  "controls": [
+    "document_sentence_count (length, as in the main paper)",
+    "L(m): target level after meeting m",
+    "L(m) - L(m-1): target change at/around meeting m (0 for the first observation, whose previous meeting 2000-02-02 is taken from the FRED series)",
+    "min(r_m,0) and max(r_m,0): primary excess price-return proxy over the interval before meeting m (state_return at m)",
+    "min(r_{m+1},0) and max(r_{m+1},0): the same proxy over the interval from meeting m to two days before meeting m+1 (state_return at m+1)"
+  ],
+  "representations": {
+    "controls_only": "controls block only",
+    "mention_frequency": "stock_mentions_total (initial dictionary attention count) + controls",
+    "rules": "audited reconstruction of the CVJ phrase-and-direction algorithm: negative_count, positive_count (whole document) + controls",
+    "flash": "gemini-3.8-flash five tone-category counts + controls",
+    "embedding": "3,072-coordinate gemini-embedding-001 meeting mean (representations.npz 'gemini') + controls"
+  },
+  "estimator": "Identical to the main paper: ridge with unpenalized intercept; controls block and representation block each standardized (numeric columns by training SD), centered, scaled to unit mean squared row norm, concatenated and divided by sqrt(2); embedding block without coordinate-wise SD scaling; controls_only uses the controls block alone. Penalty from {1e-4,...,1e4} (9 values) by pooled squared error over 3 inner TimeSeriesSplit folds of the training data; first minimum wins.",
+  "folds": "Main paper fold boundaries by date of m: train_last = 2012-08-01, 2015-01-28, 2017-07-26, 2020-01-29, 2022-07-27; test blocks run to the next boundary; final block ends 2024-11-07. Expanding window. Expected test sizes 20,20,20,20,18 (98 evaluation meetings).",
+  "metrics": "MSE, RMSE (bp), MAE (bp), OOS R2 against each fold's training mean, and G(A,B) = 100*(1 - MSE_A/MSE_B).",
+  "primary_contrasts": [
+    ["embedding", "controls_only"],
+    ["flash", "controls_only"],
+    ["rules", "controls_only"],
+    ["embedding", "rules"],
+    ["flash", "rules"]
+  ],
+  "inference": "Paired moving-block bootstrap of the evaluation sequence (block length 4, 9,999 draws, seed 20260926): percentile 95% interval for G; two-sided p-value from the bootstrap distribution of the centered mean loss difference. Holm adjustment across the five primary contrasts. Intervals condition on the saved predictions.",
+  "asymmetry_test": "Full-sample OLS with Newey-West (4 lags) standard errors: target on the controls plus standardized negative and positive counts, estimated separately for (a) rules and (b) flash negative/positive categories. Report both coefficients and a Wald test of H0: beta_negative + beta_positive = 0 (symmetric response). In-sample and descriptive; not Holm-adjusted.",
+  "secondary": {
+    "S1_forecast_information_set": "Drop the r_{m+1} components from the controls (information available at meeting m only). Same representations, folds and metrics; intervals reported, no Holm.",
+    "S2_decision_day_only": "Target = L(date_{m+1}+1) - L(date_{m+1}-1), excluding intermeeting moves. Same controls, representations, folds.",
+    "S3_original_human_counts": "Earlier-start design on the CVJ source overlap (m <= 2016-12-14; training through the 60th panel meeting, blocks after the 60th, 80th, 100th and 120th meetings, final block ending 2016-12-14). Representations: controls_only, human counts (CVJ negative and positive, all sections), rules, flash, embedding."
+  },
+  "reporting_rule": "Report every pre-specified model and contrast whether favorable or not. No additional specifications will be added to the paper without being labeled post hoc."
+}
